@@ -1,0 +1,13 @@
+{
+  "method": "ewald",
+  "solver": "kkt",
+  "use_epsr": false,
+  "eps_r": 5.9,
+  "cut": 12.0,
+  "ke": 1.0,
+  "qtot": 0.0,
+  "chi": {"Na": 2.8, "Cl": 9.0},
+  "eta": {"Na": 5.5, "Cl": 5.8},
+  "alpha": 0.25,
+  "gmax": 8
+}

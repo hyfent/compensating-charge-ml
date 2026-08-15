@@ -1,0 +1,42 @@
+{
+  "name": "cspbi3_qeq_teacher_v0",
+  "purpose": "Ewald-QEq teacher label generation for CsPbI3",
+  "elements": [
+    "Cs",
+    "Pb",
+    "I"
+  ],
+  "method": "ewald",
+  "solver": "kkt",
+  "use_epsr": false,
+  "eps_r": 6.0,
+  "cut": 12.0,
+  "ke": 1.0,
+  "qtot": 0.0,
+  "alpha": 0.25,
+  "gmax": 8,
+  "chi": {
+    "Cs": 2.183,
+    "Pb": 2.1832217321132843,
+    "I": 9.720666296158102
+  },
+  "eta": {
+    "Cs": 4.525596962021692,
+    "Pb": 3.2002211857793035,
+    "I": 7.444354317765917
+  },
+  "target_charge": {
+    "Cs": 0.7,
+    "Pb": 1.2,
+    "I": -0.633
+  },
+  "constraints": {
+    "chi_order": "chi_I > chi_Pb > chi_Cs",
+    "fixed_gauge": "chi_Cs = 2.183",
+    "eta_positive": true,
+    "qtot": 0.0,
+    "max_abs_q_threshold": 2.5,
+    "condition_number_threshold": 100000.0
+  },
+  "notes": "Engineering QEq teacher parameters, not publication-grade force-field parameters."
+}

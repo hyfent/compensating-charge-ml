@@ -1,0 +1,31 @@
+{
+  "cutoff_radius_angstrom": 6.0,
+  "radial_eta": [0.05, 0.5, 4.0],
+  "radial_shift_angstrom": [0.0, 1.5, 4.0],
+  "include_center_in_compensating_charge": true,
+  "formal_charges": {
+    "Na": 1.0,
+    "Cl": -1.0,
+    "Cs": 1.0,
+    "Pb": 2.0,
+    "I": -1.0
+  },
+  "networks": {
+    "small": [16, 16],
+    "medium": [32, 32],
+    "large": [64, 64, 64]
+  },
+  "activation": "SiLU",
+  "optimizer": "AdamW",
+  "learning_rate": 0.001,
+  "weight_decay": 0.01,
+  "adamw_epsilon": 1e-8,
+  "batch_size": "min(4096, number_of_training_atoms)",
+  "epoch_budgets": [300, 600, 1200],
+  "random_seeds": [0, 1, 2],
+  "feedback_rounds": 3,
+  "total_charge": 0.0,
+  "loss": "atom-wise mean squared error",
+  "evaluation_metric": "atom-wise mean absolute error"
+}
+

@@ -1,0 +1,1601 @@
+material,task,condition,role,structure_index,distance,retained_pcs_95pct
+NaCl,deformation,lambda=1/6,low,0,3.6588475823259947,14
+NaCl,deformation,lambda=1/6,low,1,3.35368380761319,14
+NaCl,deformation,lambda=1/6,low,2,3.328508785850294,14
+NaCl,deformation,lambda=1/6,low,3,3.0862792547934514,14
+NaCl,deformation,lambda=1/6,low,4,3.8792135513138786,14
+NaCl,deformation,lambda=1/6,low,5,3.61590641676347,14
+NaCl,deformation,lambda=1/6,low,6,2.8196814964945616,14
+NaCl,deformation,lambda=1/6,low,7,2.5710318522932263,14
+NaCl,deformation,lambda=1/6,low,8,3.554583438093021,14
+NaCl,deformation,lambda=1/6,low,9,2.9830694896911085,14
+NaCl,deformation,lambda=1/6,low,10,3.6648469354029447,14
+NaCl,deformation,lambda=1/6,low,11,4.079909787169511,14
+NaCl,deformation,lambda=1/6,low,12,4.281175299587426,14
+NaCl,deformation,lambda=1/6,low,13,4.398033678443267,14
+NaCl,deformation,lambda=1/6,low,14,3.4467352131895,14
+NaCl,deformation,lambda=1/6,low,15,3.239553553564899,14
+NaCl,deformation,lambda=1/6,low,16,3.5344192744114222,14
+NaCl,deformation,lambda=1/6,low,17,3.366319033966612,14
+NaCl,deformation,lambda=1/6,low,18,4.13604490521592,14
+NaCl,deformation,lambda=1/6,low,19,3.8568724854326626,14
+NaCl,deformation,lambda=1/6,low,20,3.1872816769899144,14
+NaCl,deformation,lambda=1/6,low,21,6.044935725334481,14
+NaCl,deformation,lambda=1/6,low,22,2.6620175448646837,14
+NaCl,deformation,lambda=1/6,low,23,4.123943753656467,14
+NaCl,deformation,lambda=1/6,low,24,3.154911875455285,14
+NaCl,deformation,lambda=1/6,low,25,4.006383909141354,14
+NaCl,deformation,lambda=1/6,low,26,3.49958790947085,14
+NaCl,deformation,lambda=1/6,low,27,3.553774266117473,14
+NaCl,deformation,lambda=1/6,low,28,2.861096312899936,14
+NaCl,deformation,lambda=1/6,low,29,2.888623019737302,14
+NaCl,deformation,lambda=1/6,low,30,3.0556598568025923,14
+NaCl,deformation,lambda=1/6,low,31,2.726621905403494,14
+NaCl,deformation,lambda=1/6,low,32,2.449968097498236,14
+NaCl,deformation,lambda=1/6,low,33,3.0247025422256812,14
+NaCl,deformation,lambda=1/6,low,34,3.2884776920648617,14
+NaCl,deformation,lambda=1/6,low,35,2.943622740099319,14
+NaCl,deformation,lambda=1/6,low,36,4.9300961423478595,14
+NaCl,deformation,lambda=1/6,low,37,3.8960755462472814,14
+NaCl,deformation,lambda=1/6,low,38,3.354412030646996,14
+NaCl,deformation,lambda=1/6,low,39,2.709643672317997,14
+NaCl,deformation,lambda=1/6,low,40,3.099873112022371,14
+NaCl,deformation,lambda=1/6,low,41,5.408299339189785,14
+NaCl,deformation,lambda=1/6,low,42,3.2190472393851874,14
+NaCl,deformation,lambda=1/6,low,43,3.7633688290139093,14
+NaCl,deformation,lambda=1/6,low,44,3.5306807896269095,14
+NaCl,deformation,lambda=1/6,low,45,4.161137049266323,14
+NaCl,deformation,lambda=1/6,low,46,2.821699457318679,14
+NaCl,deformation,lambda=1/6,low,47,2.5666073955279045,14
+NaCl,deformation,lambda=1/6,low,48,2.6712791964834666,14
+NaCl,deformation,lambda=1/6,low,49,2.2561384828964806,14
+NaCl,deformation,lambda=1/6,low,50,3.5243107570203653,14
+NaCl,deformation,lambda=1/6,low,51,2.1672256820492586,14
+NaCl,deformation,lambda=1/6,low,52,3.3602143399815287,14
+NaCl,deformation,lambda=1/6,low,53,2.415959368319666,14
+NaCl,deformation,lambda=1/6,low,54,4.920008902351949,14
+NaCl,deformation,lambda=1/6,low,55,3.850896678139302,14
+NaCl,deformation,lambda=1/6,low,56,4.5754447013477,14
+NaCl,deformation,lambda=1/6,low,57,3.4063987308186516,14
+NaCl,deformation,lambda=1/6,low,58,2.619217104417791,14
+NaCl,deformation,lambda=1/6,low,59,3.1582772938516848,14
+NaCl,deformation,lambda=1/6,low,60,3.729734920642756,14
+NaCl,deformation,lambda=1/6,low,61,2.9397824130394365,14
+NaCl,deformation,lambda=1/6,low,62,3.4779288577142626,14
+NaCl,deformation,lambda=1/6,low,63,4.197103570496636,14
+NaCl,deformation,lambda=1/6,low,64,4.251787293786111,14
+NaCl,deformation,lambda=1/6,low,65,4.2291005394233085,14
+NaCl,deformation,lambda=1/6,low,66,3.0997822622429467,14
+NaCl,deformation,lambda=1/6,low,67,4.814131419572684,14
+NaCl,deformation,lambda=1/6,low,68,3.9740006133147854,14
+NaCl,deformation,lambda=1/6,low,69,4.627706338852409,14
+NaCl,deformation,lambda=1/6,low,70,3.5212551445675593,14
+NaCl,deformation,lambda=1/6,low,71,3.2302928802778035,14
+NaCl,deformation,lambda=1/6,low,72,4.0100047819988545,14
+NaCl,deformation,lambda=1/6,low,73,3.4427758134213358,14
+NaCl,deformation,lambda=1/6,low,74,3.6108616807620995,14
+NaCl,deformation,lambda=1/6,low,75,3.696098663240022,14
+NaCl,deformation,lambda=1/6,low,76,4.366295053795605,14
+NaCl,deformation,lambda=1/6,low,77,4.067636836316012,14
+NaCl,deformation,lambda=1/6,low,78,4.939666647226265,14
+NaCl,deformation,lambda=1/6,low,79,3.3989184851630267,14
+NaCl,deformation,lambda=1/3,low,0,10.577010376294496,14
+NaCl,deformation,lambda=1/3,low,1,4.061657516908801,14
+NaCl,deformation,lambda=1/3,low,2,4.3865660698253395,14
+NaCl,deformation,lambda=1/3,low,3,4.0732181622166825,14
+NaCl,deformation,lambda=1/3,low,4,4.2296514178327,14
+NaCl,deformation,lambda=1/3,low,5,3.99961509420998,14
+NaCl,deformation,lambda=1/3,low,6,3.6141920778221235,14
+NaCl,deformation,lambda=1/3,low,7,5.5647336501188835,14
+NaCl,deformation,lambda=1/3,low,8,3.41923007998502,14
+NaCl,deformation,lambda=1/3,low,9,4.170946056971976,14
+NaCl,deformation,lambda=1/3,low,10,3.969294574994416,14
+NaCl,deformation,lambda=1/3,low,11,3.6922771901522413,14
+NaCl,deformation,lambda=1/3,low,12,3.160360031011547,14
+NaCl,deformation,lambda=1/3,low,13,2.976204572920965,14
+NaCl,deformation,lambda=1/3,low,14,3.644819143254015,14
+NaCl,deformation,lambda=1/3,low,15,3.26656625312665,14
+NaCl,deformation,lambda=1/3,low,16,3.935646675874624,14
+NaCl,deformation,lambda=1/3,low,17,3.907867077363857,14
+NaCl,deformation,lambda=1/3,low,18,3.1511612096568467,14
+NaCl,deformation,lambda=1/3,low,19,2.9285081276363587,14
+NaCl,deformation,lambda=1/3,low,20,3.5595574932014866,14
+NaCl,deformation,lambda=1/3,low,21,4.006545119691959,14
+NaCl,deformation,lambda=1/3,low,22,4.620255425573252,14
+NaCl,deformation,lambda=1/3,low,23,3.837480212522493,14
+NaCl,deformation,lambda=1/3,low,24,5.082611031914378,14
+NaCl,deformation,lambda=1/3,low,25,3.228012224266942,14
+NaCl,deformation,lambda=1/3,low,26,3.740947065418874,14
+NaCl,deformation,lambda=1/3,low,27,3.1725998366078816,14
+NaCl,deformation,lambda=1/3,low,28,3.340603670446663,14
+NaCl,deformation,lambda=1/3,low,29,3.697932873102203,14
+NaCl,deformation,lambda=1/3,low,30,3.178412357648934,14
+NaCl,deformation,lambda=1/3,low,31,4.912107473037549,14
+NaCl,deformation,lambda=1/3,low,32,4.094374192349359,14
+NaCl,deformation,lambda=1/3,low,33,3.1592804526515352,14
+NaCl,deformation,lambda=1/3,low,34,2.4266984325131236,14
+NaCl,deformation,lambda=1/3,low,35,2.3332226474927587,14
+NaCl,deformation,lambda=1/3,low,36,3.4372064636468616,14
+NaCl,deformation,lambda=1/3,low,37,4.362469720496248,14
+NaCl,deformation,lambda=1/3,low,38,2.7818696990338156,14
+NaCl,deformation,lambda=1/3,low,39,4.120858097242662,14
+NaCl,deformation,lambda=1/3,low,40,2.755144643708315,14
+NaCl,deformation,lambda=1/3,low,41,2.839161709639013,14
+NaCl,deformation,lambda=1/3,low,42,3.128697061312057,14
+NaCl,deformation,lambda=1/3,low,43,2.775677697855479,14
+NaCl,deformation,lambda=1/3,low,44,2.7384600392738037,14
+NaCl,deformation,lambda=1/3,low,45,3.3896774591335066,14
+NaCl,deformation,lambda=1/3,low,46,2.815974753510002,14
+NaCl,deformation,lambda=1/3,low,47,3.499767061945459,14
+NaCl,deformation,lambda=1/3,low,48,2.949716278907388,14
+NaCl,deformation,lambda=1/3,low,49,2.6897236709988084,14
+NaCl,deformation,lambda=1/3,low,50,4.277444894630148,14
+NaCl,deformation,lambda=1/3,low,51,3.8111142227423422,14
+NaCl,deformation,lambda=1/3,low,52,2.633616685134049,14
+NaCl,deformation,lambda=1/3,low,53,3.805881111778323,14
+NaCl,deformation,lambda=1/3,low,54,3.6944649621891945,14
+NaCl,deformation,lambda=1/3,low,55,3.3023105525291827,14
+NaCl,deformation,lambda=1/3,low,56,3.203395289733834,14
+NaCl,deformation,lambda=1/3,low,57,3.6299681462504965,14
+NaCl,deformation,lambda=1/3,low,58,4.271690408197968,14
+NaCl,deformation,lambda=1/3,low,59,3.9221147747637044,14
+NaCl,deformation,lambda=1/3,low,60,4.22847327563639,14
+NaCl,deformation,lambda=1/3,low,61,3.812864094016547,14
+NaCl,deformation,lambda=1/3,low,62,3.633014725482526,14
+NaCl,deformation,lambda=1/3,low,63,3.5366457948680616,14
+NaCl,deformation,lambda=1/3,low,64,3.919556269780391,14
+NaCl,deformation,lambda=1/3,low,65,4.481752700245583,14
+NaCl,deformation,lambda=1/3,low,66,3.720304685820415,14
+NaCl,deformation,lambda=1/3,low,67,2.880889279269789,14
+NaCl,deformation,lambda=1/3,low,68,3.5956521410363504,14
+NaCl,deformation,lambda=1/3,low,69,3.4110983938050947,14
+NaCl,deformation,lambda=1/3,low,70,2.597348252869947,14
+NaCl,deformation,lambda=1/3,low,71,2.9193308597738152,14
+NaCl,deformation,lambda=1/3,low,72,2.996751538489023,14
+NaCl,deformation,lambda=1/3,low,73,6.138985221987992,14
+NaCl,deformation,lambda=1/3,low,74,3.9940148792262,14
+NaCl,deformation,lambda=1/3,low,75,3.8639899963077955,14
+NaCl,deformation,lambda=1/3,low,76,3.5166004514423257,14
+NaCl,deformation,lambda=1/3,low,77,3.224654564164145,14
+NaCl,deformation,lambda=1/3,low,78,3.336985687267065,14
+NaCl,deformation,lambda=1/3,low,79,3.3902800542017353,14
+NaCl,deformation,lambda=0.50,high,0,5.386761576607832,14
+NaCl,deformation,lambda=0.50,high,1,4.884094840938961,14
+NaCl,deformation,lambda=0.50,high,2,4.412726255074877,14
+NaCl,deformation,lambda=0.50,high,3,3.9683428051664085,14
+NaCl,deformation,lambda=0.50,high,4,6.089833470591943,14
+NaCl,deformation,lambda=0.50,high,5,5.240540678620942,14
+NaCl,deformation,lambda=0.50,high,6,5.865012117155018,14
+NaCl,deformation,lambda=0.50,high,7,7.096073547794987,14
+NaCl,deformation,lambda=0.50,high,8,5.010313967887826,14
+NaCl,deformation,lambda=0.50,high,9,4.726482562199061,14
+NaCl,deformation,lambda=0.50,high,10,3.903988335135837,14
+NaCl,deformation,lambda=0.50,high,11,4.5285332488443695,14
+NaCl,deformation,lambda=0.50,high,12,5.832948152029734,14
+NaCl,deformation,lambda=0.50,high,13,4.832989105936301,14
+NaCl,deformation,lambda=0.50,high,14,4.943566684785107,14
+NaCl,deformation,lambda=0.50,high,15,4.368050255755756,14
+NaCl,deformation,lambda=0.50,high,16,8.003061651750063,14
+NaCl,deformation,lambda=0.50,high,17,6.936271668222534,14
+NaCl,deformation,lambda=0.50,high,18,5.175146726604311,14
+NaCl,deformation,lambda=0.50,high,19,5.461072784520809,14
+NaCl,deformation,lambda=0.50,high,20,5.321066369603114,14
+NaCl,deformation,lambda=0.50,high,21,4.257727665766678,14
+NaCl,deformation,lambda=0.50,high,22,8.700532484831417,14
+NaCl,deformation,lambda=0.50,high,23,5.04518449204264,14
+NaCl,deformation,lambda=0.50,high,24,5.097644776974445,14
+NaCl,deformation,lambda=0.50,high,25,4.768741363076711,14
+NaCl,deformation,lambda=0.50,high,26,4.933926399503692,14
+NaCl,deformation,lambda=0.50,high,27,4.602279956707914,14
+NaCl,deformation,lambda=0.50,high,28,5.097742517926083,14
+NaCl,deformation,lambda=0.50,high,29,5.629491005177548,14
+NaCl,deformation,lambda=0.50,high,30,5.0808616201952885,14
+NaCl,deformation,lambda=0.50,high,31,3.7412665379767063,14
+NaCl,deformation,lambda=0.50,high,32,4.369526564313855,14
+NaCl,deformation,lambda=0.50,high,33,6.622765613430867,14
+NaCl,deformation,lambda=0.50,high,34,3.6903946186954526,14
+NaCl,deformation,lambda=0.50,high,35,6.247067066325602,14
+NaCl,deformation,lambda=0.50,high,36,3.6193611822781655,14
+NaCl,deformation,lambda=0.50,high,37,4.165844631816868,14
+NaCl,deformation,lambda=0.50,high,38,4.788581078254539,14
+NaCl,deformation,lambda=0.50,high,39,4.488146692243637,14
+NaCl,deformation,lambda=0.50,high,40,4.7446693932162205,14
+NaCl,deformation,lambda=0.50,high,41,5.295423650993283,14
+NaCl,deformation,lambda=0.50,high,42,5.514714303587682,14
+NaCl,deformation,lambda=0.50,high,43,4.45239587814172,14
+NaCl,deformation,lambda=0.50,high,44,4.915700699254308,14
+NaCl,deformation,lambda=0.50,high,45,5.583397242652597,14
+NaCl,deformation,lambda=0.50,high,46,6.134856421293731,14
+NaCl,deformation,lambda=0.50,high,47,4.051357628750146,14
+NaCl,deformation,lambda=0.50,high,48,5.568564254507527,14
+NaCl,deformation,lambda=0.50,high,49,5.228291862192513,14
+NaCl,deformation,lambda=0.50,high,50,6.458362772831409,14
+NaCl,deformation,lambda=0.50,high,51,6.4327379737385595,14
+NaCl,deformation,lambda=0.50,high,52,5.518895031309636,14
+NaCl,deformation,lambda=0.50,high,53,4.246618403487209,14
+NaCl,deformation,lambda=0.50,high,54,5.034898984128507,14
+NaCl,deformation,lambda=0.50,high,55,4.9425194731735544,14
+NaCl,deformation,lambda=0.50,high,56,5.593889190468869,14
+NaCl,deformation,lambda=0.50,high,57,5.546128843835223,14
+NaCl,deformation,lambda=0.50,high,58,4.2327686276683965,14
+NaCl,deformation,lambda=0.50,high,59,3.859430306204164,14
+NaCl,deformation,lambda=0.50,high,60,4.409124073987797,14
+NaCl,deformation,lambda=0.50,high,61,4.586036516275568,14
+NaCl,deformation,lambda=0.50,high,62,5.186644298969136,14
+NaCl,deformation,lambda=0.50,high,63,4.833327714120238,14
+NaCl,deformation,lambda=0.50,high,64,4.032967916425648,14
+NaCl,deformation,lambda=0.50,high,65,4.954020215547158,14
+NaCl,deformation,lambda=0.50,high,66,5.715748106559593,14
+NaCl,deformation,lambda=0.50,high,67,3.4772101876832275,14
+NaCl,deformation,lambda=0.50,high,68,6.038790567490402,14
+NaCl,deformation,lambda=0.50,high,69,6.0750817228794425,14
+NaCl,deformation,lambda=0.50,high,70,4.835229225599913,14
+NaCl,deformation,lambda=0.50,high,71,5.374989353465552,14
+NaCl,deformation,lambda=0.50,high,72,5.288418111409498,14
+NaCl,deformation,lambda=0.50,high,73,3.456459547362107,14
+NaCl,deformation,lambda=0.50,high,74,4.8522361582162885,14
+NaCl,deformation,lambda=0.50,high,75,4.615505091319036,14
+NaCl,deformation,lambda=0.50,high,76,4.552953438939989,14
+NaCl,deformation,lambda=0.50,high,77,5.459342856569833,14
+NaCl,deformation,lambda=0.50,high,78,4.649859190960332,14
+NaCl,deformation,lambda=0.50,high,79,5.457006184940484,14
+NaCl,deformation,lambda=0.75,high,0,7.283532652525314,14
+NaCl,deformation,lambda=0.75,high,1,9.19447888472543,14
+NaCl,deformation,lambda=0.75,high,2,7.602280583579691,14
+NaCl,deformation,lambda=0.75,high,3,9.268945951685428,14
+NaCl,deformation,lambda=0.75,high,4,8.162764585440566,14
+NaCl,deformation,lambda=0.75,high,5,8.279027454528666,14
+NaCl,deformation,lambda=0.75,high,6,7.3810293938786495,14
+NaCl,deformation,lambda=0.75,high,7,8.575484590802397,14
+NaCl,deformation,lambda=0.75,high,8,8.200994863933714,14
+NaCl,deformation,lambda=0.75,high,9,7.174604474496651,14
+NaCl,deformation,lambda=0.75,high,10,9.077065120197405,14
+NaCl,deformation,lambda=0.75,high,11,8.165379426507245,14
+NaCl,deformation,lambda=0.75,high,12,10.202431049173375,14
+NaCl,deformation,lambda=0.75,high,13,7.5287985619083,14
+NaCl,deformation,lambda=0.75,high,14,8.625378696540135,14
+NaCl,deformation,lambda=0.75,high,15,8.850073054142788,14
+NaCl,deformation,lambda=0.75,high,16,7.13896775713345,14
+NaCl,deformation,lambda=0.75,high,17,8.926760761567488,14
+NaCl,deformation,lambda=0.75,high,18,8.066689776814624,14
+NaCl,deformation,lambda=0.75,high,19,7.669931236141223,14
+NaCl,deformation,lambda=0.75,high,20,8.438689645837488,14
+NaCl,deformation,lambda=0.75,high,21,8.828352856157178,14
+NaCl,deformation,lambda=0.75,high,22,8.981191218180433,14
+NaCl,deformation,lambda=0.75,high,23,9.122586727501494,14
+NaCl,deformation,lambda=0.75,high,24,7.833895318551471,14
+NaCl,deformation,lambda=0.75,high,25,7.062273447416111,14
+NaCl,deformation,lambda=0.75,high,26,8.084257137104519,14
+NaCl,deformation,lambda=0.75,high,27,7.853007455392872,14
+NaCl,deformation,lambda=0.75,high,28,7.659251384749542,14
+NaCl,deformation,lambda=0.75,high,29,7.770067082037533,14
+NaCl,deformation,lambda=0.75,high,30,8.152833468546307,14
+NaCl,deformation,lambda=0.75,high,31,8.466020784395708,14
+NaCl,deformation,lambda=0.75,high,32,9.180770655153227,14
+NaCl,deformation,lambda=0.75,high,33,9.672478790147464,14
+NaCl,deformation,lambda=0.75,high,34,8.206292527136565,14
+NaCl,deformation,lambda=0.75,high,35,7.297332096794345,14
+NaCl,deformation,lambda=0.75,high,36,8.290529165788572,14
+NaCl,deformation,lambda=0.75,high,37,8.461885481449192,14
+NaCl,deformation,lambda=0.75,high,38,7.564938356685788,14
+NaCl,deformation,lambda=0.75,high,39,7.167397022525785,14
+NaCl,deformation,lambda=0.75,high,40,7.591655430871536,14
+NaCl,deformation,lambda=0.75,high,41,7.598644150588876,14
+NaCl,deformation,lambda=0.75,high,42,8.288683769262205,14
+NaCl,deformation,lambda=0.75,high,43,7.62676367784309,14
+NaCl,deformation,lambda=0.75,high,44,8.14256636322541,14
+NaCl,deformation,lambda=0.75,high,45,8.846473674749497,14
+NaCl,deformation,lambda=0.75,high,46,7.6870955445084155,14
+NaCl,deformation,lambda=0.75,high,47,7.82432380970135,14
+NaCl,deformation,lambda=0.75,high,48,7.2366575196333995,14
+NaCl,deformation,lambda=0.75,high,49,8.407647199098164,14
+NaCl,deformation,lambda=0.75,high,50,8.099361050699125,14
+NaCl,deformation,lambda=0.75,high,51,7.7531830158253845,14
+NaCl,deformation,lambda=0.75,high,52,8.73987368369224,14
+NaCl,deformation,lambda=0.75,high,53,9.238622193589121,14
+NaCl,deformation,lambda=0.75,high,54,8.86906018544304,14
+NaCl,deformation,lambda=0.75,high,55,9.494969760841979,14
+NaCl,deformation,lambda=0.75,high,56,8.325854973807747,14
+NaCl,deformation,lambda=0.75,high,57,8.330976080872171,14
+NaCl,deformation,lambda=0.75,high,58,9.163177471632354,14
+NaCl,deformation,lambda=0.75,high,59,8.219191268625897,14
+NaCl,deformation,lambda=0.75,high,60,7.594547084797135,14
+NaCl,deformation,lambda=0.75,high,61,7.734692627826538,14
+NaCl,deformation,lambda=0.75,high,62,8.30419484763539,14
+NaCl,deformation,lambda=0.75,high,63,7.4105877977787475,14
+NaCl,deformation,lambda=0.75,high,64,8.332915537134095,14
+NaCl,deformation,lambda=0.75,high,65,9.045841896022065,14
+NaCl,deformation,lambda=0.75,high,66,7.645201417883042,14
+NaCl,deformation,lambda=0.75,high,67,6.947784934082323,14
+NaCl,deformation,lambda=0.75,high,68,7.3361982285067135,14
+NaCl,deformation,lambda=0.75,high,69,8.052220299792314,14
+NaCl,deformation,lambda=0.75,high,70,9.66027057700944,14
+NaCl,deformation,lambda=0.75,high,71,8.188279070599362,14
+NaCl,deformation,lambda=0.75,high,72,8.791533727060992,14
+NaCl,deformation,lambda=0.75,high,73,7.976732791165817,14
+NaCl,deformation,lambda=0.75,high,74,8.835410002966272,14
+NaCl,deformation,lambda=0.75,high,75,9.391325023737929,14
+NaCl,deformation,lambda=0.75,high,76,7.380924420360686,14
+NaCl,deformation,lambda=0.75,high,77,8.091328598616341,14
+NaCl,deformation,lambda=0.75,high,78,8.457743283666188,14
+NaCl,deformation,lambda=0.75,high,79,7.55452283199471,14
+NaCl,deformation,lambda=1.00,high,0,12.387724409952346,14
+NaCl,deformation,lambda=1.00,high,1,11.41142918705536,14
+NaCl,deformation,lambda=1.00,high,2,12.740721338756533,14
+NaCl,deformation,lambda=1.00,high,3,13.167875241443685,14
+NaCl,deformation,lambda=1.00,high,4,11.534422612710252,14
+NaCl,deformation,lambda=1.00,high,5,12.577816484192637,14
+NaCl,deformation,lambda=1.00,high,6,11.979505852768808,14
+NaCl,deformation,lambda=1.00,high,7,11.502798452135165,14
+NaCl,deformation,lambda=1.00,high,8,13.113599403184,14
+NaCl,deformation,lambda=1.00,high,9,12.392600745419195,14
+NaCl,deformation,lambda=1.00,high,10,11.457969184297951,14
+NaCl,deformation,lambda=1.00,high,11,13.569729923266157,14
+NaCl,deformation,lambda=1.00,high,12,13.323317657907674,14
+NaCl,deformation,lambda=1.00,high,13,11.71687886378637,14
+NaCl,deformation,lambda=1.00,high,14,12.002044768895061,14
+NaCl,deformation,lambda=1.00,high,15,12.983668525130442,14
+NaCl,deformation,lambda=1.00,high,16,12.510687529855861,14
+NaCl,deformation,lambda=1.00,high,17,11.92779102756459,14
+NaCl,deformation,lambda=1.00,high,18,13.619957030291818,14
+NaCl,deformation,lambda=1.00,high,19,12.1754899847652,14
+NaCl,deformation,lambda=1.00,high,20,12.755610747052575,14
+NaCl,deformation,lambda=1.00,high,21,12.095584264808641,14
+NaCl,deformation,lambda=1.00,high,22,13.07083143632331,14
+NaCl,deformation,lambda=1.00,high,23,14.991433904988105,14
+NaCl,deformation,lambda=1.00,high,24,12.271455514372914,14
+NaCl,deformation,lambda=1.00,high,25,13.437530746438076,14
+NaCl,deformation,lambda=1.00,high,26,11.71419933675727,14
+NaCl,deformation,lambda=1.00,high,27,12.443640588391505,14
+NaCl,deformation,lambda=1.00,high,28,12.13720015064928,14
+NaCl,deformation,lambda=1.00,high,29,13.682337547737985,14
+NaCl,deformation,lambda=1.00,high,30,12.854013969717801,14
+NaCl,deformation,lambda=1.00,high,31,14.1376992017279,14
+NaCl,deformation,lambda=1.00,high,32,15.267291970382209,14
+NaCl,deformation,lambda=1.00,high,33,12.297863358134386,14
+NaCl,deformation,lambda=1.00,high,34,14.626750865098927,14
+NaCl,deformation,lambda=1.00,high,35,15.879635573870802,14
+NaCl,deformation,lambda=1.00,high,36,12.268773724458486,14
+NaCl,deformation,lambda=1.00,high,37,11.99069127799956,14
+NaCl,deformation,lambda=1.00,high,38,13.044917677957589,14
+NaCl,deformation,lambda=1.00,high,39,13.263042323546328,14
+NaCl,deformation,lambda=1.00,high,40,13.003551526838384,14
+NaCl,deformation,lambda=1.00,high,41,12.974220987682168,14
+NaCl,deformation,lambda=1.00,high,42,11.570199790680388,14
+NaCl,deformation,lambda=1.00,high,43,12.37954794010983,14
+NaCl,deformation,lambda=1.00,high,44,12.356150081126762,14
+NaCl,deformation,lambda=1.00,high,45,12.807251654554916,14
+NaCl,deformation,lambda=1.00,high,46,11.61049835166419,14
+NaCl,deformation,lambda=1.00,high,47,13.162282453816275,14
+NaCl,deformation,lambda=1.00,high,48,12.223022500913565,14
+NaCl,deformation,lambda=1.00,high,49,12.284686688027428,14
+NaCl,deformation,lambda=1.00,high,50,14.042475271465563,14
+NaCl,deformation,lambda=1.00,high,51,11.579696990224264,14
+NaCl,deformation,lambda=1.00,high,52,11.079693807567734,14
+NaCl,deformation,lambda=1.00,high,53,13.943653860194194,14
+NaCl,deformation,lambda=1.00,high,54,11.75050519001664,14
+NaCl,deformation,lambda=1.00,high,55,12.833496595045531,14
+NaCl,deformation,lambda=1.00,high,56,13.024768835016777,14
+NaCl,deformation,lambda=1.00,high,57,12.225070778330432,14
+NaCl,deformation,lambda=1.00,high,58,13.052664740929599,14
+NaCl,deformation,lambda=1.00,high,59,12.288278666977337,14
+NaCl,deformation,lambda=1.00,high,60,15.486406868784753,14
+NaCl,deformation,lambda=1.00,high,61,13.997549245681792,14
+NaCl,deformation,lambda=1.00,high,62,11.762991662297646,14
+NaCl,deformation,lambda=1.00,high,63,13.26270974623677,14
+NaCl,deformation,lambda=1.00,high,64,12.454747978587266,14
+NaCl,deformation,lambda=1.00,high,65,13.686416102123868,14
+NaCl,deformation,lambda=1.00,high,66,17.803338167990333,14
+NaCl,deformation,lambda=1.00,high,67,11.830711818024145,14
+NaCl,deformation,lambda=1.00,high,68,13.932594761891146,14
+NaCl,deformation,lambda=1.00,high,69,11.98132111208534,14
+NaCl,deformation,lambda=1.00,high,70,12.82807342084934,14
+NaCl,deformation,lambda=1.00,high,71,12.346369119909427,14
+NaCl,deformation,lambda=1.00,high,72,11.758478407588381,14
+NaCl,deformation,lambda=1.00,high,73,12.308813141558028,14
+NaCl,deformation,lambda=1.00,high,74,12.619595756204735,14
+NaCl,deformation,lambda=1.00,high,75,11.936411302635438,14
+NaCl,deformation,lambda=1.00,high,76,13.55912574322417,14
+NaCl,deformation,lambda=1.00,high,77,31.736115580026883,14
+NaCl,deformation,lambda=1.00,high,78,34.03163510986943,14
+NaCl,deformation,lambda=1.00,high,79,17.942866857422263,14
+NaCl,temperature,300 K,low,0,2.5316582672079466,9
+NaCl,temperature,300 K,low,1,2.608375066829526,9
+NaCl,temperature,300 K,low,2,2.7907929443891653,9
+NaCl,temperature,300 K,low,3,2.165315949487024,9
+NaCl,temperature,300 K,low,4,3.4553639105094995,9
+NaCl,temperature,300 K,low,5,2.7454852091675,9
+NaCl,temperature,300 K,low,6,2.470976530788122,9
+NaCl,temperature,300 K,low,7,2.9764194020419437,9
+NaCl,temperature,300 K,low,8,3.075387899090791,9
+NaCl,temperature,300 K,low,9,2.6743467884178074,9
+NaCl,temperature,300 K,low,10,1.6479880413855357,9
+NaCl,temperature,300 K,low,11,2.188322890537426,9
+NaCl,temperature,300 K,low,12,2.4753568692802004,9
+NaCl,temperature,300 K,low,13,1.801489662799298,9
+NaCl,temperature,300 K,low,14,2.3472905184992956,9
+NaCl,temperature,300 K,low,15,2.3205892954694884,9
+NaCl,temperature,300 K,low,16,2.174109599761542,9
+NaCl,temperature,300 K,low,17,2.171988780488574,9
+NaCl,temperature,300 K,low,18,2.0954070967967913,9
+NaCl,temperature,300 K,low,19,1.436548413234543,9
+NaCl,temperature,300 K,low,20,2.723334630484142,9
+NaCl,temperature,300 K,low,21,2.337810317729174,9
+NaCl,temperature,300 K,low,22,1.5651031998917908,9
+NaCl,temperature,300 K,low,23,2.63247387952375,9
+NaCl,temperature,300 K,low,24,1.8469928831207834,9
+NaCl,temperature,300 K,low,25,2.3483362481681316,9
+NaCl,temperature,300 K,low,26,2.1097042921851696,9
+NaCl,temperature,300 K,low,27,2.8148921660005533,9
+NaCl,temperature,300 K,low,28,2.224399317867091,9
+NaCl,temperature,300 K,low,29,1.7039269321426116,9
+NaCl,temperature,300 K,low,30,1.9315867627265215,9
+NaCl,temperature,300 K,low,31,2.142903984897183,9
+NaCl,temperature,300 K,low,32,2.3975199237766627,9
+NaCl,temperature,300 K,low,33,2.423414476359528,9
+NaCl,temperature,300 K,low,34,2.39170449699005,9
+NaCl,temperature,300 K,low,35,2.260225933139209,9
+NaCl,temperature,300 K,low,36,2.4754320548499678,9
+NaCl,temperature,300 K,low,37,1.9043775662856064,9
+NaCl,temperature,300 K,low,38,2.1983941817750297,9
+NaCl,temperature,300 K,low,39,2.9363670604728958,9
+NaCl,temperature,300 K,low,40,2.144474246697984,9
+NaCl,temperature,300 K,low,41,2.3112849492455685,9
+NaCl,temperature,300 K,low,42,2.2206148354926523,9
+NaCl,temperature,300 K,low,43,2.3258114143547255,9
+NaCl,temperature,300 K,low,44,2.4300346609531087,9
+NaCl,temperature,300 K,low,45,2.4438304999213023,9
+NaCl,temperature,300 K,low,46,2.319153408795837,9
+NaCl,temperature,300 K,low,47,2.797187277816629,9
+NaCl,temperature,300 K,low,48,2.5701630741056234,9
+NaCl,temperature,300 K,low,49,2.180099646656842,9
+NaCl,temperature,300 K,low,50,2.338520571220403,9
+NaCl,temperature,300 K,low,51,2.1604760363870628,9
+NaCl,temperature,300 K,low,52,2.7515137338186206,9
+NaCl,temperature,300 K,low,53,2.1536834553713264,9
+NaCl,temperature,300 K,low,54,2.4840313518303767,9
+NaCl,temperature,300 K,low,55,2.5136778774306925,9
+NaCl,temperature,300 K,low,56,1.8357579687768744,9
+NaCl,temperature,300 K,low,57,1.8292945851565723,9
+NaCl,temperature,300 K,low,58,2.4806407993246653,9
+NaCl,temperature,300 K,low,59,2.4438449562633497,9
+NaCl,temperature,300 K,low,60,2.9931850260791117,9
+NaCl,temperature,300 K,low,61,2.533832799843506,9
+NaCl,temperature,300 K,low,62,3.8167864536485037,9
+NaCl,temperature,300 K,low,63,1.5038750660118068,9
+NaCl,temperature,300 K,low,64,2.123819273104216,9
+NaCl,temperature,300 K,low,65,1.7498145188562337,9
+NaCl,temperature,300 K,low,66,2.187708081298362,9
+NaCl,temperature,300 K,low,67,1.8493972966581191,9
+NaCl,temperature,300 K,low,68,2.392487024169818,9
+NaCl,temperature,300 K,low,69,1.8992299175665852,9
+NaCl,temperature,300 K,low,70,1.5671090685667168,9
+NaCl,temperature,300 K,low,71,3.8205454979240785,9
+NaCl,temperature,300 K,low,72,3.0804764342531876,9
+NaCl,temperature,300 K,low,73,1.8089750432557195,9
+NaCl,temperature,300 K,low,74,2.6763818719364454,9
+NaCl,temperature,300 K,low,75,2.122559558906266,9
+NaCl,temperature,300 K,low,76,2.846673269300604,9
+NaCl,temperature,300 K,low,77,2.0672490977181206,9
+NaCl,temperature,300 K,low,78,3.135773574789493,9
+NaCl,temperature,300 K,low,79,3.3751836526656307,9
+NaCl,temperature,450 K,low,0,3.755971694486455,9
+NaCl,temperature,450 K,low,1,2.767598170292425,9
+NaCl,temperature,450 K,low,2,2.440506124524635,9
+NaCl,temperature,450 K,low,3,3.2045645581664304,9
+NaCl,temperature,450 K,low,4,3.6489313678787805,9
+NaCl,temperature,450 K,low,5,4.210187523481215,9
+NaCl,temperature,450 K,low,6,3.9408654804700864,9
+NaCl,temperature,450 K,low,7,2.979047368248302,9
+NaCl,temperature,450 K,low,8,3.757262415626073,9
+NaCl,temperature,450 K,low,9,5.069002984927377,9
+NaCl,temperature,450 K,low,10,3.4563546517944146,9
+NaCl,temperature,450 K,low,11,2.7613985065205755,9
+NaCl,temperature,450 K,low,12,2.9424786731084414,9
+NaCl,temperature,450 K,low,13,2.025609731089554,9
+NaCl,temperature,450 K,low,14,2.954933480635823,9
+NaCl,temperature,450 K,low,15,2.8483864836255948,9
+NaCl,temperature,450 K,low,16,3.536818154313821,9
+NaCl,temperature,450 K,low,17,3.2493612971402834,9
+NaCl,temperature,450 K,low,18,3.2460602692383063,9
+NaCl,temperature,450 K,low,19,4.211841412323005,9
+NaCl,temperature,450 K,low,20,2.911403821441694,9
+NaCl,temperature,450 K,low,21,3.8322466215437805,9
+NaCl,temperature,450 K,low,22,4.368561957147219,9
+NaCl,temperature,450 K,low,23,1.96266801802399,9
+NaCl,temperature,450 K,low,24,2.7740753466995867,9
+NaCl,temperature,450 K,low,25,3.387513597463626,9
+NaCl,temperature,450 K,low,26,1.8246296473313477,9
+NaCl,temperature,450 K,low,27,3.2271268931888017,9
+NaCl,temperature,450 K,low,28,3.2775243959152744,9
+NaCl,temperature,450 K,low,29,2.105818542842359,9
+NaCl,temperature,450 K,low,30,2.9788962914232813,9
+NaCl,temperature,450 K,low,31,2.1644816654728025,9
+NaCl,temperature,450 K,low,32,5.261912603001483,9
+NaCl,temperature,450 K,low,33,2.8540734416806846,9
+NaCl,temperature,450 K,low,34,1.6351606361003028,9
+NaCl,temperature,450 K,low,35,3.340729794724242,9
+NaCl,temperature,450 K,low,36,3.1002397205140544,9
+NaCl,temperature,450 K,low,37,2.8899102498806055,9
+NaCl,temperature,450 K,low,38,4.29269698894877,9
+NaCl,temperature,450 K,low,39,3.302435776788041,9
+NaCl,temperature,450 K,low,40,2.2877609495115188,9
+NaCl,temperature,450 K,low,41,3.093816210517187,9
+NaCl,temperature,450 K,low,42,3.0623590747538283,9
+NaCl,temperature,450 K,low,43,3.1762602563759432,9
+NaCl,temperature,450 K,low,44,2.530306447087391,9
+NaCl,temperature,450 K,low,45,2.223996734659645,9
+NaCl,temperature,450 K,low,46,2.38292381830196,9
+NaCl,temperature,450 K,low,47,4.318353320703384,9
+NaCl,temperature,450 K,low,48,2.538783164619599,9
+NaCl,temperature,450 K,low,49,6.114902192013079,9
+NaCl,temperature,450 K,low,50,3.678482756434651,9
+NaCl,temperature,450 K,low,51,2.5644972478612167,9
+NaCl,temperature,450 K,low,52,7.826524355175386,9
+NaCl,temperature,450 K,low,53,3.6258926439457118,9
+NaCl,temperature,450 K,low,54,1.8319821985932254,9
+NaCl,temperature,450 K,low,55,4.049485569077079,9
+NaCl,temperature,450 K,low,56,2.462442602273244,9
+NaCl,temperature,450 K,low,57,3.8967414281533825,9
+NaCl,temperature,450 K,low,58,6.07695271256347,9
+NaCl,temperature,450 K,low,59,3.3293963617848923,9
+NaCl,temperature,450 K,low,60,2.8394999694388363,9
+NaCl,temperature,450 K,low,61,2.9155105020319203,9
+NaCl,temperature,450 K,low,62,4.707258555744678,9
+NaCl,temperature,450 K,low,63,3.2050157926409284,9
+NaCl,temperature,450 K,low,64,3.04175453499326,9
+NaCl,temperature,450 K,low,65,3.599903533982106,9
+NaCl,temperature,450 K,low,66,2.6645867490462543,9
+NaCl,temperature,450 K,low,67,4.4336875082608005,9
+NaCl,temperature,450 K,low,68,2.472485051909952,9
+NaCl,temperature,450 K,low,69,2.8131346913003727,9
+NaCl,temperature,450 K,low,70,4.485362489809703,9
+NaCl,temperature,450 K,low,71,3.8794279012382558,9
+NaCl,temperature,450 K,low,72,3.488396878846164,9
+NaCl,temperature,450 K,low,73,2.7909989611190182,9
+NaCl,temperature,450 K,low,74,2.1353418491253655,9
+NaCl,temperature,450 K,low,75,4.425533180621006,9
+NaCl,temperature,450 K,low,76,2.924487835491933,9
+NaCl,temperature,450 K,low,77,2.708953097543911,9
+NaCl,temperature,450 K,low,78,2.8170560685916315,9
+NaCl,temperature,450 K,low,79,3.392240474466987,9
+NaCl,temperature,600 K,high,0,3.4420770089066473,9
+NaCl,temperature,600 K,high,1,5.872525957582074,9
+NaCl,temperature,600 K,high,2,5.433854876768939,9
+NaCl,temperature,600 K,high,3,4.453933408614365,9
+NaCl,temperature,600 K,high,4,24.018849082353793,9
+NaCl,temperature,600 K,high,5,33.80164081246472,9
+NaCl,temperature,600 K,high,6,78.88444303961708,9
+NaCl,temperature,600 K,high,7,7.318255757929271,9
+NaCl,temperature,600 K,high,8,41.44750353937643,9
+NaCl,temperature,600 K,high,9,4.366731483927617,9
+NaCl,temperature,600 K,high,10,8.408856990024963,9
+NaCl,temperature,600 K,high,11,23.400546899705326,9
+NaCl,temperature,600 K,high,12,13.025931036332974,9
+NaCl,temperature,600 K,high,13,6.164065654786135,9
+NaCl,temperature,600 K,high,14,14.845469653300853,9
+NaCl,temperature,600 K,high,15,11.745084912825325,9
+NaCl,temperature,600 K,high,16,30.730969698966675,9
+NaCl,temperature,600 K,high,17,36.953227476505965,9
+NaCl,temperature,600 K,high,18,7.574848005879612,9
+NaCl,temperature,600 K,high,19,91.85529583159571,9
+NaCl,temperature,600 K,high,20,41.294755976712715,9
+NaCl,temperature,600 K,high,21,11.12013540405985,9
+NaCl,temperature,600 K,high,22,28.431437918920963,9
+NaCl,temperature,600 K,high,23,11.066118162278347,9
+NaCl,temperature,600 K,high,24,10.441453970228133,9
+NaCl,temperature,600 K,high,25,14.279382041698335,9
+NaCl,temperature,600 K,high,26,4.824970601481279,9
+NaCl,temperature,600 K,high,27,15.137279663311304,9
+NaCl,temperature,600 K,high,28,15.531615759629698,9
+NaCl,temperature,600 K,high,29,5.829548993302056,9
+NaCl,temperature,600 K,high,30,10.997304343252594,9
+NaCl,temperature,600 K,high,31,57.287682557303405,9
+NaCl,temperature,600 K,high,32,43.77143016885198,9
+NaCl,temperature,600 K,high,33,5.804041022895178,9
+NaCl,temperature,600 K,high,34,26.870803458542976,9
+NaCl,temperature,600 K,high,35,19.937879854877913,9
+NaCl,temperature,600 K,high,36,4.559198233899289,9
+NaCl,temperature,600 K,high,37,6.354350563023661,9
+NaCl,temperature,600 K,high,38,55.83161281377063,9
+NaCl,temperature,600 K,high,39,6.2621028188328625,9
+NaCl,temperature,600 K,high,40,100.95480637924116,9
+NaCl,temperature,600 K,high,41,6.811254117354478,9
+NaCl,temperature,600 K,high,42,19.08147140681769,9
+NaCl,temperature,600 K,high,43,12.051172441777883,9
+NaCl,temperature,600 K,high,44,49.9905512768693,9
+NaCl,temperature,600 K,high,45,7.905779491228773,9
+NaCl,temperature,600 K,high,46,5.499324505334635,9
+NaCl,temperature,600 K,high,47,13.391277469611525,9
+NaCl,temperature,600 K,high,48,10.784915979433071,9
+NaCl,temperature,600 K,high,49,4.626652382217854,9
+NaCl,temperature,600 K,high,50,9.542997285666676,9
+NaCl,temperature,600 K,high,51,9.232093786281832,9
+NaCl,temperature,600 K,high,52,14.13414759840912,9
+NaCl,temperature,600 K,high,53,4.093905494547462,9
+NaCl,temperature,600 K,high,54,6.893784596396735,9
+NaCl,temperature,600 K,high,55,6.57116634282147,9
+NaCl,temperature,600 K,high,56,82.21583523350556,9
+NaCl,temperature,600 K,high,57,4.880375514118364,9
+NaCl,temperature,600 K,high,58,4.969601101225834,9
+NaCl,temperature,600 K,high,59,14.211653501397606,9
+NaCl,temperature,600 K,high,60,4.98371460710353,9
+NaCl,temperature,600 K,high,61,5.808190489294318,9
+NaCl,temperature,600 K,high,62,6.909436939534293,9
+NaCl,temperature,600 K,high,63,4.6747636253898905,9
+NaCl,temperature,600 K,high,64,7.075863924380173,9
+NaCl,temperature,600 K,high,65,6.831623180755717,9
+NaCl,temperature,600 K,high,66,12.135530038683013,9
+NaCl,temperature,600 K,high,67,5.430220997411823,9
+NaCl,temperature,600 K,high,68,17.21574502853408,9
+NaCl,temperature,600 K,high,69,6.027714462790955,9
+NaCl,temperature,600 K,high,70,4.941984118156433,9
+NaCl,temperature,600 K,high,71,20.022519903764145,9
+NaCl,temperature,600 K,high,72,5.557481704717029,9
+NaCl,temperature,600 K,high,73,22.545500391492148,9
+NaCl,temperature,600 K,high,74,35.14982385083462,9
+NaCl,temperature,600 K,high,75,11.725645582732486,9
+NaCl,temperature,600 K,high,76,38.35206893725255,9
+NaCl,temperature,600 K,high,77,15.409096887367028,9
+NaCl,temperature,600 K,high,78,4.776244972202492,9
+NaCl,temperature,600 K,high,79,23.66189334314055,9
+NaCl,temperature,650 K,high,0,9.548769472748242,9
+NaCl,temperature,650 K,high,1,12.399040990499763,9
+NaCl,temperature,650 K,high,2,6.097778644591245,9
+NaCl,temperature,650 K,high,3,21.270879744958897,9
+NaCl,temperature,650 K,high,4,31.697993217581043,9
+NaCl,temperature,650 K,high,5,10.946558004867416,9
+NaCl,temperature,650 K,high,6,7.892126864784224,9
+NaCl,temperature,650 K,high,7,15.028609448840378,9
+NaCl,temperature,650 K,high,8,94.74844354095363,9
+NaCl,temperature,650 K,high,9,16.15828717264201,9
+NaCl,temperature,650 K,high,10,27.906876822766282,9
+NaCl,temperature,650 K,high,11,50.11118841778595,9
+NaCl,temperature,650 K,high,12,76.85307318300573,9
+NaCl,temperature,650 K,high,13,38.38858934293345,9
+NaCl,temperature,650 K,high,14,18.023664630087964,9
+NaCl,temperature,650 K,high,15,45.12586934513702,9
+NaCl,temperature,650 K,high,16,16.940164496273788,9
+NaCl,temperature,650 K,high,17,26.461195538799874,9
+NaCl,temperature,650 K,high,18,114.14180720179321,9
+NaCl,temperature,650 K,high,19,6.190368691213363,9
+NaCl,temperature,650 K,high,20,6.690694009790555,9
+NaCl,temperature,650 K,high,21,13.832776797891707,9
+NaCl,temperature,650 K,high,22,34.12878891953718,9
+NaCl,temperature,650 K,high,23,18.758963419070383,9
+NaCl,temperature,650 K,high,24,6.685860939103753,9
+NaCl,temperature,650 K,high,25,11.15138164556588,9
+NaCl,temperature,650 K,high,26,99.95193389171861,9
+NaCl,temperature,650 K,high,27,12.168518774333952,9
+NaCl,temperature,650 K,high,28,7.634914838640439,9
+NaCl,temperature,650 K,high,29,20.01984566680503,9
+NaCl,temperature,650 K,high,30,12.074385478142286,9
+NaCl,temperature,650 K,high,31,9.153557951603798,9
+NaCl,temperature,650 K,high,32,11.706545225135503,9
+NaCl,temperature,650 K,high,33,11.848581487802457,9
+NaCl,temperature,650 K,high,34,13.29982312964445,9
+NaCl,temperature,650 K,high,35,60.26216060295164,9
+NaCl,temperature,650 K,high,36,314.30707610287476,9
+NaCl,temperature,650 K,high,37,9.159587523766223,9
+NaCl,temperature,650 K,high,38,7.286518797701389,9
+NaCl,temperature,650 K,high,39,374.7728399743448,9
+NaCl,temperature,650 K,high,40,15.253614563309046,9
+NaCl,temperature,650 K,high,41,24.25033404787873,9
+NaCl,temperature,650 K,high,42,11.940724528230323,9
+NaCl,temperature,650 K,high,43,53.41928000926809,9
+NaCl,temperature,650 K,high,44,455.09175437964836,9
+NaCl,temperature,650 K,high,45,9.794858560009773,9
+NaCl,temperature,650 K,high,46,16.063015540690085,9
+NaCl,temperature,650 K,high,47,35.78212854552797,9
+NaCl,temperature,650 K,high,48,15.978783821696071,9
+NaCl,temperature,650 K,high,49,11.328325910634716,9
+NaCl,temperature,650 K,high,50,6.275025783944547,9
+NaCl,temperature,650 K,high,51,10.239139641399452,9
+NaCl,temperature,650 K,high,52,16.912216422852612,9
+NaCl,temperature,650 K,high,53,102.1451620708518,9
+NaCl,temperature,650 K,high,54,16.907430428937484,9
+NaCl,temperature,650 K,high,55,49.29933026532682,9
+NaCl,temperature,650 K,high,56,12.21773144742033,9
+NaCl,temperature,650 K,high,57,30.312399899967968,9
+NaCl,temperature,650 K,high,58,6.960851509195485,9
+NaCl,temperature,650 K,high,59,64.22227239996343,9
+NaCl,temperature,650 K,high,60,22.518895755558873,9
+NaCl,temperature,650 K,high,61,19.697618842954178,9
+NaCl,temperature,650 K,high,62,10.890863931529303,9
+NaCl,temperature,650 K,high,63,15.31908826797529,9
+NaCl,temperature,650 K,high,64,12.451773620244994,9
+NaCl,temperature,650 K,high,65,5.1621212064122854,9
+NaCl,temperature,650 K,high,66,404.2779567260195,9
+NaCl,temperature,650 K,high,67,23.920355530742597,9
+NaCl,temperature,650 K,high,68,15.859601382777006,9
+NaCl,temperature,650 K,high,69,46.378230253294866,9
+NaCl,temperature,650 K,high,70,9.409891936164106,9
+NaCl,temperature,650 K,high,71,8.634202614066842,9
+NaCl,temperature,650 K,high,72,30.844811016755774,9
+NaCl,temperature,650 K,high,73,125.52097996262134,9
+NaCl,temperature,650 K,high,74,52.62670094789616,9
+NaCl,temperature,650 K,high,75,12.86940510736048,9
+NaCl,temperature,650 K,high,76,7.767053839686385,9
+NaCl,temperature,650 K,high,77,60.41037301911753,9
+NaCl,temperature,650 K,high,78,8.294875889420412,9
+NaCl,temperature,650 K,high,79,16.951506163041987,9
+NaCl,temperature,700 K,high,0,795.1619065151384,9
+NaCl,temperature,700 K,high,1,147.8718259132219,9
+NaCl,temperature,700 K,high,2,11.131009100444953,9
+NaCl,temperature,700 K,high,3,26.728361651880803,9
+NaCl,temperature,700 K,high,4,34.18924540451168,9
+NaCl,temperature,700 K,high,5,18.95559582417746,9
+NaCl,temperature,700 K,high,6,314.5213608670195,9
+NaCl,temperature,700 K,high,7,260.74787777492617,9
+NaCl,temperature,700 K,high,8,109.0372377655953,9
+NaCl,temperature,700 K,high,9,118.57929037691196,9
+NaCl,temperature,700 K,high,10,17.338795681783285,9
+NaCl,temperature,700 K,high,11,30.384665643915667,9
+NaCl,temperature,700 K,high,12,31.122430513135605,9
+NaCl,temperature,700 K,high,13,257.38819389475395,9
+NaCl,temperature,700 K,high,14,410.444668906649,9
+NaCl,temperature,700 K,high,15,82.35415375019649,9
+NaCl,temperature,700 K,high,16,36.68923932303813,9
+NaCl,temperature,700 K,high,17,40.4641689804044,9
+NaCl,temperature,700 K,high,18,145.63851833359553,9
+NaCl,temperature,700 K,high,19,94.49438275938014,9
+NaCl,temperature,700 K,high,20,2928.7683488950743,9
+NaCl,temperature,700 K,high,21,43.36168010483159,9
+NaCl,temperature,700 K,high,22,12.362316880062206,9
+NaCl,temperature,700 K,high,23,48.76854329620034,9
+NaCl,temperature,700 K,high,24,200.63659431179232,9
+NaCl,temperature,700 K,high,25,41.25913114893267,9
+NaCl,temperature,700 K,high,26,104.4919889799112,9
+NaCl,temperature,700 K,high,27,49.41185618800444,9
+NaCl,temperature,700 K,high,28,55.03647965714582,9
+NaCl,temperature,700 K,high,29,25.253637163685614,9
+NaCl,temperature,700 K,high,30,83.0628794276339,9
+NaCl,temperature,700 K,high,31,58.06401405450964,9
+NaCl,temperature,700 K,high,32,48.629755050753936,9
+NaCl,temperature,700 K,high,33,11.487645022034753,9
+NaCl,temperature,700 K,high,34,42.08759051605092,9
+NaCl,temperature,700 K,high,35,260.9088362819806,9
+NaCl,temperature,700 K,high,36,721.368599829281,9
+NaCl,temperature,700 K,high,37,15.11898113542443,9
+NaCl,temperature,700 K,high,38,91.7131940870124,9
+NaCl,temperature,700 K,high,39,28.998838788690396,9
+NaCl,temperature,700 K,high,40,121.50013822243803,9
+NaCl,temperature,700 K,high,41,36.70597325638892,9
+NaCl,temperature,700 K,high,42,12.947237942250329,9
+NaCl,temperature,700 K,high,43,113.08949079478688,9
+NaCl,temperature,700 K,high,44,229.3226051753905,9
+NaCl,temperature,700 K,high,45,9.465886092414635,9
+NaCl,temperature,700 K,high,46,89.48762337134775,9
+NaCl,temperature,700 K,high,47,18.59325333801603,9
+NaCl,temperature,700 K,high,48,19.521967358172937,9
+NaCl,temperature,700 K,high,49,61.51368666320765,9
+NaCl,temperature,700 K,high,50,22.468469513677952,9
+NaCl,temperature,700 K,high,51,101.46215178522112,9
+NaCl,temperature,700 K,high,52,21.51700410702081,9
+NaCl,temperature,700 K,high,53,45.334587458910335,9
+NaCl,temperature,700 K,high,54,114.38309080805489,9
+NaCl,temperature,700 K,high,55,111.16502070367497,9
+NaCl,temperature,700 K,high,56,8.742596150090762,9
+NaCl,temperature,700 K,high,57,38.52348279005676,9
+NaCl,temperature,700 K,high,58,151.84704834931637,9
+NaCl,temperature,700 K,high,59,53.477507502307596,9
+NaCl,temperature,700 K,high,60,56.51060913172153,9
+NaCl,temperature,700 K,high,61,15.542909176012834,9
+NaCl,temperature,700 K,high,62,56.665044042317845,9
+NaCl,temperature,700 K,high,63,39.27956810361362,9
+NaCl,temperature,700 K,high,64,14.039639277367224,9
+NaCl,temperature,700 K,high,65,32.45965880980487,9
+NaCl,temperature,700 K,high,66,31.509227161545645,9
+NaCl,temperature,700 K,high,67,66.60095914942988,9
+NaCl,temperature,700 K,high,68,45.0677484975771,9
+NaCl,temperature,700 K,high,69,96.56957551082039,9
+NaCl,temperature,700 K,high,70,421.7611032625872,9
+NaCl,temperature,700 K,high,71,73.47880724421343,9
+NaCl,temperature,700 K,high,72,165.92271351078804,9
+NaCl,temperature,700 K,high,73,61.71714197134307,9
+NaCl,temperature,700 K,high,74,34.53534742881691,9
+NaCl,temperature,700 K,high,75,36.901948297014336,9
+NaCl,temperature,700 K,high,76,116.02226612524922,9
+NaCl,temperature,700 K,high,77,380.7770743166263,9
+NaCl,temperature,700 K,high,78,12.223980215245687,9
+NaCl,temperature,700 K,high,79,507.54041745303374,9
+CsPbI3,deformation,lambda=1/6,low,0,4.970788792514081,9
+CsPbI3,deformation,lambda=1/6,low,1,4.615419155499909,9
+CsPbI3,deformation,lambda=1/6,low,2,4.169366952290865,9
+CsPbI3,deformation,lambda=1/6,low,3,3.252162838260529,9
+CsPbI3,deformation,lambda=1/6,low,4,2.9094081727470127,9
+CsPbI3,deformation,lambda=1/6,low,5,2.668828630185032,9
+CsPbI3,deformation,lambda=1/6,low,6,2.496174869983557,9
+CsPbI3,deformation,lambda=1/6,low,7,2.4232168392204296,9
+CsPbI3,deformation,lambda=1/6,low,8,2.8471188788162345,9
+CsPbI3,deformation,lambda=1/6,low,9,3.293083916020196,9
+CsPbI3,deformation,lambda=1/6,low,10,3.762894595852978,9
+CsPbI3,deformation,lambda=1/6,low,11,4.144592604702786,9
+CsPbI3,deformation,lambda=1/6,low,12,4.3663525277225785,9
+CsPbI3,deformation,lambda=1/6,low,13,4.166029256061208,9
+CsPbI3,deformation,lambda=1/6,low,14,3.8447680524299286,9
+CsPbI3,deformation,lambda=1/6,low,15,3.518587196719781,9
+CsPbI3,deformation,lambda=1/6,low,16,3.3166273227010707,9
+CsPbI3,deformation,lambda=1/6,low,17,3.4814518862685904,9
+CsPbI3,deformation,lambda=1/6,low,18,3.7585038073185513,9
+CsPbI3,deformation,lambda=1/6,low,19,4.058383247467448,9
+CsPbI3,deformation,lambda=1/6,low,20,4.30039149879757,9
+CsPbI3,deformation,lambda=1/6,low,21,4.4254310372513785,9
+CsPbI3,deformation,lambda=1/6,low,22,4.230715892149594,9
+CsPbI3,deformation,lambda=1/6,low,23,3.8912260994524255,9
+CsPbI3,deformation,lambda=1/6,low,24,3.4275125598401677,9
+CsPbI3,deformation,lambda=1/6,low,25,2.925329608437662,9
+CsPbI3,deformation,lambda=1/6,low,26,2.1088489308972678,9
+CsPbI3,deformation,lambda=1/6,low,27,1.8754685416352463,9
+CsPbI3,deformation,lambda=1/6,low,28,1.8251175462038423,9
+CsPbI3,deformation,lambda=1/6,low,29,2.0370220577897227,9
+CsPbI3,deformation,lambda=1/6,low,30,2.5683206649526826,9
+CsPbI3,deformation,lambda=1/6,low,31,4.338267192221201,9
+CsPbI3,deformation,lambda=1/6,low,32,5.04316087019955,9
+CsPbI3,deformation,lambda=1/6,low,33,5.185252088961067,9
+CsPbI3,deformation,lambda=1/6,low,34,4.707220042681994,9
+CsPbI3,deformation,lambda=1/6,low,35,3.886975614261,9
+CsPbI3,deformation,lambda=1/6,low,36,2.704653595033808,9
+CsPbI3,deformation,lambda=1/6,low,37,2.6039399424608183,9
+CsPbI3,deformation,lambda=1/6,low,38,2.7352322629893955,9
+CsPbI3,deformation,lambda=1/6,low,39,2.9678005906168705,9
+CsPbI3,deformation,lambda=1/6,low,40,3.182582310456662,9
+CsPbI3,deformation,lambda=1/6,low,41,3.2899328829250734,9
+CsPbI3,deformation,lambda=1/6,low,42,3.1477265238889345,9
+CsPbI3,deformation,lambda=1/6,low,43,2.9100127514267724,9
+CsPbI3,deformation,lambda=1/6,low,44,2.626358186813706,9
+CsPbI3,deformation,lambda=1/6,low,45,2.1736700385548833,9
+CsPbI3,deformation,lambda=1/6,low,46,2.10510382325798,9
+CsPbI3,deformation,lambda=1/6,low,47,2.1112852166275253,9
+CsPbI3,deformation,lambda=1/6,low,48,2.1268011281653165,9
+CsPbI3,deformation,lambda=1/6,low,49,2.137197501476584,9
+CsPbI3,deformation,lambda=1/6,low,50,2.164419895796005,9
+CsPbI3,deformation,lambda=1/6,low,51,2.17324490283363,9
+CsPbI3,deformation,lambda=1/6,low,52,2.184759618153632,9
+CsPbI3,deformation,lambda=1/6,low,53,2.208914500392249,9
+CsPbI3,deformation,lambda=1/6,low,54,2.238756901557192,9
+CsPbI3,deformation,lambda=1/6,low,55,2.318964553445154,9
+CsPbI3,deformation,lambda=1/6,low,56,2.391514324778321,9
+CsPbI3,deformation,lambda=1/6,low,57,2.469338821769986,9
+CsPbI3,deformation,lambda=1/6,low,58,2.5642640888414228,9
+CsPbI3,deformation,lambda=1/6,low,59,2.7282132903674183,9
+CsPbI3,deformation,lambda=1/6,low,60,2.750811081266422,9
+CsPbI3,deformation,lambda=1/6,low,61,2.737508805241313,9
+CsPbI3,deformation,lambda=1/6,low,62,2.6836323335625414,9
+CsPbI3,deformation,lambda=1/6,low,63,2.570630382404752,9
+CsPbI3,deformation,lambda=1/6,low,64,2.2942312550238357,9
+CsPbI3,deformation,lambda=1/6,low,65,2.2323398149842015,9
+CsPbI3,deformation,lambda=1/6,low,66,2.2263774685858007,9
+CsPbI3,deformation,lambda=1/6,low,67,2.231092844437448,9
+CsPbI3,deformation,lambda=1/6,low,68,2.2120514991872495,9
+CsPbI3,deformation,lambda=1/6,low,69,2.1989797925192534,9
+CsPbI3,deformation,lambda=1/6,low,70,2.3536503705323577,9
+CsPbI3,deformation,lambda=1/6,low,71,2.6298365249854414,9
+CsPbI3,deformation,lambda=1/6,low,72,2.920497740884109,9
+CsPbI3,deformation,lambda=1/6,low,73,3.1429643691276024,9
+CsPbI3,deformation,lambda=1/6,low,74,3.4514301928898115,9
+CsPbI3,deformation,lambda=1/6,low,75,3.575624229430946,9
+CsPbI3,deformation,lambda=1/6,low,76,3.6417086666661547,9
+CsPbI3,deformation,lambda=1/6,low,77,3.6691667765951808,9
+CsPbI3,deformation,lambda=1/6,low,78,3.836705387147112,9
+CsPbI3,deformation,lambda=1/6,low,79,3.9548860604756015,9
+CsPbI3,deformation,lambda=1/3,low,0,4.742351187309542,9
+CsPbI3,deformation,lambda=1/3,low,1,4.380868008825266,9
+CsPbI3,deformation,lambda=1/3,low,2,3.9803372234296233,9
+CsPbI3,deformation,lambda=1/3,low,3,3.4708852620628017,9
+CsPbI3,deformation,lambda=1/3,low,4,3.2981346122699797,9
+CsPbI3,deformation,lambda=1/3,low,5,3.1059619732598316,9
+CsPbI3,deformation,lambda=1/3,low,6,2.867929544667437,9
+CsPbI3,deformation,lambda=1/3,low,7,2.667168710702304,9
+CsPbI3,deformation,lambda=1/3,low,8,3.6364303907400743,9
+CsPbI3,deformation,lambda=1/3,low,9,4.417919340744247,9
+CsPbI3,deformation,lambda=1/3,low,10,4.570854809578519,9
+CsPbI3,deformation,lambda=1/3,low,11,4.007575827712,9
+CsPbI3,deformation,lambda=1/3,low,12,2.625764687190127,9
+CsPbI3,deformation,lambda=1/3,low,13,2.53031327547257,9
+CsPbI3,deformation,lambda=1/3,low,14,2.657793309309475,9
+CsPbI3,deformation,lambda=1/3,low,15,2.8175453533690322,9
+CsPbI3,deformation,lambda=1/3,low,16,2.950271686082278,9
+CsPbI3,deformation,lambda=1/3,low,17,3.123138320286142,9
+CsPbI3,deformation,lambda=1/3,low,18,3.1733507214704577,9
+CsPbI3,deformation,lambda=1/3,low,19,3.1972973697271323,9
+CsPbI3,deformation,lambda=1/3,low,20,3.1705504189581752,9
+CsPbI3,deformation,lambda=1/3,low,21,3.0633698946487034,9
+CsPbI3,deformation,lambda=1/3,low,22,2.7238775902572447,9
+CsPbI3,deformation,lambda=1/3,low,23,2.554202710955533,9
+CsPbI3,deformation,lambda=1/3,low,24,2.379096652536915,9
+CsPbI3,deformation,lambda=1/3,low,25,2.229587625617771,9
+CsPbI3,deformation,lambda=1/3,low,26,2.235148089571218,9
+CsPbI3,deformation,lambda=1/3,low,27,2.3116219667679654,9
+CsPbI3,deformation,lambda=1/3,low,28,2.3323589553371566,9
+CsPbI3,deformation,lambda=1/3,low,29,2.2882771986365538,9
+CsPbI3,deformation,lambda=1/3,low,30,2.2199122695432747,9
+CsPbI3,deformation,lambda=1/3,low,31,2.251133071412965,9
+CsPbI3,deformation,lambda=1/3,low,32,2.372456161783298,9
+CsPbI3,deformation,lambda=1/3,low,33,2.504702088963515,9
+CsPbI3,deformation,lambda=1/3,low,34,2.5980638915534064,9
+CsPbI3,deformation,lambda=1/3,low,35,2.6377821486476902,9
+CsPbI3,deformation,lambda=1/3,low,36,2.5724938936155652,9
+CsPbI3,deformation,lambda=1/3,low,37,2.447324059155364,9
+CsPbI3,deformation,lambda=1/3,low,38,2.2807008912115223,9
+CsPbI3,deformation,lambda=1/3,low,39,2.1157770755999645,9
+CsPbI3,deformation,lambda=1/3,low,40,1.9904127064039856,9
+CsPbI3,deformation,lambda=1/3,low,41,1.9196740753759463,9
+CsPbI3,deformation,lambda=1/3,low,42,1.957494429781904,9
+CsPbI3,deformation,lambda=1/3,low,43,2.013139466580311,9
+CsPbI3,deformation,lambda=1/3,low,44,2.078048834086976,9
+CsPbI3,deformation,lambda=1/3,low,45,2.247939535892144,9
+CsPbI3,deformation,lambda=1/3,low,46,2.326010061375987,9
+CsPbI3,deformation,lambda=1/3,low,47,2.3618894345813914,9
+CsPbI3,deformation,lambda=1/3,low,48,2.3565176385899016,9
+CsPbI3,deformation,lambda=1/3,low,49,2.336125088795976,9
+CsPbI3,deformation,lambda=1/3,low,50,2.2779537529402574,9
+CsPbI3,deformation,lambda=1/3,low,51,2.2150284503298425,9
+CsPbI3,deformation,lambda=1/3,low,52,2.1449994722637724,9
+CsPbI3,deformation,lambda=1/3,low,53,2.1041870710783113,9
+CsPbI3,deformation,lambda=1/3,low,54,2.1277776300661224,9
+CsPbI3,deformation,lambda=1/3,low,55,2.4009336550779787,9
+CsPbI3,deformation,lambda=1/3,low,56,2.599028777286244,9
+CsPbI3,deformation,lambda=1/3,low,57,2.7798915687547514,9
+CsPbI3,deformation,lambda=1/3,low,58,2.9135287153310836,9
+CsPbI3,deformation,lambda=1/3,low,59,3.044290650125016,9
+CsPbI3,deformation,lambda=1/3,low,60,3.0930815005409613,9
+CsPbI3,deformation,lambda=1/3,low,61,3.146385481221199,9
+CsPbI3,deformation,lambda=1/3,low,62,3.1686326042657096,9
+CsPbI3,deformation,lambda=1/3,low,63,3.1105600102565565,9
+CsPbI3,deformation,lambda=1/3,low,64,2.732569478710546,9
+CsPbI3,deformation,lambda=1/3,low,65,2.51006145026458,9
+CsPbI3,deformation,lambda=1/3,low,66,2.3693401926367104,9
+CsPbI3,deformation,lambda=1/3,low,67,2.3535845226917353,9
+CsPbI3,deformation,lambda=1/3,low,68,2.414075649787932,9
+CsPbI3,deformation,lambda=1/3,low,69,2.4085656690758745,9
+CsPbI3,deformation,lambda=1/3,low,70,2.3210127792544135,9
+CsPbI3,deformation,lambda=1/3,low,71,2.2462095888698355,9
+CsPbI3,deformation,lambda=1/3,low,72,2.217730965627956,9
+CsPbI3,deformation,lambda=1/3,low,73,2.2464383425983585,9
+CsPbI3,deformation,lambda=1/3,low,74,2.454314104690675,9
+CsPbI3,deformation,lambda=1/3,low,75,2.5983938407752785,9
+CsPbI3,deformation,lambda=1/3,low,76,2.7350483971328856,9
+CsPbI3,deformation,lambda=1/3,low,77,2.839732245460327,9
+CsPbI3,deformation,lambda=1/3,low,78,2.8549531815874936,9
+CsPbI3,deformation,lambda=1/3,low,79,2.755336862846935,9
+CsPbI3,deformation,lambda=0.50,high,0,6.446119943655217,9
+CsPbI3,deformation,lambda=0.50,high,1,7.762605671889316,9
+CsPbI3,deformation,lambda=0.50,high,2,7.217871593256572,9
+CsPbI3,deformation,lambda=0.50,high,3,5.634427100872012,9
+CsPbI3,deformation,lambda=0.50,high,4,4.905753329990228,9
+CsPbI3,deformation,lambda=0.50,high,5,4.822497749885824,9
+CsPbI3,deformation,lambda=0.50,high,6,5.326654053611136,9
+CsPbI3,deformation,lambda=0.50,high,7,6.054236472027295,9
+CsPbI3,deformation,lambda=0.50,high,8,6.937566296410086,9
+CsPbI3,deformation,lambda=0.50,high,9,7.195037861888004,9
+CsPbI3,deformation,lambda=0.50,high,10,4.561941150392459,9
+CsPbI3,deformation,lambda=0.50,high,11,4.454513966423282,9
+CsPbI3,deformation,lambda=0.50,high,12,4.6883125710083755,9
+CsPbI3,deformation,lambda=0.50,high,13,5.019414805106553,9
+CsPbI3,deformation,lambda=0.50,high,14,5.66795394354936,9
+CsPbI3,deformation,lambda=0.50,high,15,5.684132672517285,9
+CsPbI3,deformation,lambda=0.50,high,16,5.645300667674195,9
+CsPbI3,deformation,lambda=0.50,high,17,5.575087488315581,9
+CsPbI3,deformation,lambda=0.50,high,18,5.358752872124222,9
+CsPbI3,deformation,lambda=0.50,high,19,5.359009338852081,9
+CsPbI3,deformation,lambda=0.50,high,20,5.407267600716307,9
+CsPbI3,deformation,lambda=0.50,high,21,5.438543086957713,9
+CsPbI3,deformation,lambda=0.50,high,22,4.950030265040243,9
+CsPbI3,deformation,lambda=0.50,high,23,4.53995964380868,9
+CsPbI3,deformation,lambda=0.50,high,24,4.171360451122422,9
+CsPbI3,deformation,lambda=0.50,high,25,3.8662489293556233,9
+CsPbI3,deformation,lambda=0.50,high,26,3.689049859551827,9
+CsPbI3,deformation,lambda=0.50,high,27,3.5342787649011456,9
+CsPbI3,deformation,lambda=0.50,high,28,3.381204811723977,9
+CsPbI3,deformation,lambda=0.50,high,29,3.109315578633228,9
+CsPbI3,deformation,lambda=0.50,high,30,2.8334583875023505,9
+CsPbI3,deformation,lambda=0.50,high,31,2.7368055227391177,9
+CsPbI3,deformation,lambda=0.50,high,32,2.7250042645138532,9
+CsPbI3,deformation,lambda=0.50,high,33,2.932652996451081,9
+CsPbI3,deformation,lambda=0.50,high,34,3.147928651701272,9
+CsPbI3,deformation,lambda=0.50,high,35,3.3204235652826415,9
+CsPbI3,deformation,lambda=0.50,high,36,3.91485654936702,9
+CsPbI3,deformation,lambda=0.50,high,37,4.014799097332798,9
+CsPbI3,deformation,lambda=0.50,high,38,3.4146234785132417,9
+CsPbI3,deformation,lambda=0.50,high,39,3.027019870755776,9
+CsPbI3,deformation,lambda=0.50,high,40,2.312479587710571,9
+CsPbI3,deformation,lambda=0.50,high,41,1.989143900275876,9
+CsPbI3,deformation,lambda=0.50,high,42,1.7130154205472732,9
+CsPbI3,deformation,lambda=0.50,high,43,1.7764501267262474,9
+CsPbI3,deformation,lambda=0.50,high,44,2.167856110027462,9
+CsPbI3,deformation,lambda=0.50,high,45,2.384666936543969,9
+CsPbI3,deformation,lambda=0.50,high,46,2.6033103306204484,9
+CsPbI3,deformation,lambda=0.50,high,47,2.779397182829848,9
+CsPbI3,deformation,lambda=0.50,high,48,3.0766157188561625,9
+CsPbI3,deformation,lambda=0.50,high,49,3.553367029481317,9
+CsPbI3,deformation,lambda=0.50,high,50,4.902407186347893,9
+CsPbI3,deformation,lambda=0.50,high,51,6.627518044560474,9
+CsPbI3,deformation,lambda=0.50,high,52,7.553634539250033,9
+CsPbI3,deformation,lambda=0.50,high,53,8.464921130367292,9
+CsPbI3,deformation,lambda=0.50,high,54,10.039800775676275,9
+CsPbI3,deformation,lambda=0.50,high,55,10.9656541598759,9
+CsPbI3,deformation,lambda=0.50,high,56,11.139843191790227,9
+CsPbI3,deformation,lambda=0.50,high,57,11.144045890639514,9
+CsPbI3,deformation,lambda=0.50,high,58,10.790520636443347,9
+CsPbI3,deformation,lambda=0.50,high,59,10.166640095981892,9
+CsPbI3,deformation,lambda=0.50,high,60,9.792488134957937,9
+CsPbI3,deformation,lambda=0.50,high,61,9.392216236881206,9
+CsPbI3,deformation,lambda=0.50,high,62,8.080064410930392,9
+CsPbI3,deformation,lambda=0.50,high,63,7.665257297162977,9
+CsPbI3,deformation,lambda=0.50,high,64,7.317966742454923,9
+CsPbI3,deformation,lambda=0.50,high,65,7.036446190130311,9
+CsPbI3,deformation,lambda=0.50,high,66,6.0901735742449326,9
+CsPbI3,deformation,lambda=0.50,high,67,5.624618499251932,9
+CsPbI3,deformation,lambda=0.50,high,68,5.137089132927274,9
+CsPbI3,deformation,lambda=0.50,high,69,4.684254527222082,9
+CsPbI3,deformation,lambda=0.50,high,70,3.8353060245163966,9
+CsPbI3,deformation,lambda=0.50,high,71,3.651995731593316,9
+CsPbI3,deformation,lambda=0.50,high,72,3.4159205885714408,9
+CsPbI3,deformation,lambda=0.50,high,73,3.1148419135597516,9
+CsPbI3,deformation,lambda=0.50,high,74,2.2987039500547235,9
+CsPbI3,deformation,lambda=0.50,high,75,2.1233535652207074,9
+CsPbI3,deformation,lambda=0.50,high,76,1.9788991429205696,9
+CsPbI3,deformation,lambda=0.50,high,77,1.8586505582429198,9
+CsPbI3,deformation,lambda=0.50,high,78,1.8107945577504923,9
+CsPbI3,deformation,lambda=0.50,high,79,2.027463539620795,9
+CsPbI3,deformation,lambda=0.75,high,0,65.83178246878873,9
+CsPbI3,deformation,lambda=0.75,high,1,73.74104132948163,9
+CsPbI3,deformation,lambda=0.75,high,2,181.51070207732758,9
+CsPbI3,deformation,lambda=0.75,high,3,244.37852793436554,9
+CsPbI3,deformation,lambda=0.75,high,4,283.944641284759,9
+CsPbI3,deformation,lambda=0.75,high,5,279.84309499679136,9
+CsPbI3,deformation,lambda=0.75,high,6,148.11185811181505,9
+CsPbI3,deformation,lambda=0.75,high,7,135.86044712629092,9
+CsPbI3,deformation,lambda=0.75,high,8,140.55330956560562,9
+CsPbI3,deformation,lambda=0.75,high,9,152.57038670203167,9
+CsPbI3,deformation,lambda=0.75,high,10,199.54558577173506,9
+CsPbI3,deformation,lambda=0.75,high,11,215.2566863639719,9
+CsPbI3,deformation,lambda=0.75,high,12,229.68231971113642,9
+CsPbI3,deformation,lambda=0.75,high,13,241.90375378547859,9
+CsPbI3,deformation,lambda=0.75,high,14,255.2180203960712,9
+CsPbI3,deformation,lambda=0.75,high,15,249.2510491636706,9
+CsPbI3,deformation,lambda=0.75,high,16,238.02355291654413,9
+CsPbI3,deformation,lambda=0.75,high,17,222.4765363746746,9
+CsPbI3,deformation,lambda=0.75,high,18,165.4425602405801,9
+CsPbI3,deformation,lambda=0.75,high,19,148.25862265853044,9
+CsPbI3,deformation,lambda=0.75,high,20,133.69509762682506,9
+CsPbI3,deformation,lambda=0.75,high,21,111.6954016208526,9
+CsPbI3,deformation,lambda=0.75,high,22,95.47564849754114,9
+CsPbI3,deformation,lambda=0.75,high,23,88.46978076405512,9
+CsPbI3,deformation,lambda=0.75,high,24,81.92163565119232,9
+CsPbI3,deformation,lambda=0.75,high,25,69.90166659383333,9
+CsPbI3,deformation,lambda=0.75,high,26,59.44607428568518,9
+CsPbI3,deformation,lambda=0.75,high,27,55.044628567098336,9
+CsPbI3,deformation,lambda=0.75,high,28,51.49578012761022,9
+CsPbI3,deformation,lambda=0.75,high,29,47.15308222184957,9
+CsPbI3,deformation,lambda=0.75,high,30,46.623556327394375,9
+CsPbI3,deformation,lambda=0.75,high,31,47.558129850137334,9
+CsPbI3,deformation,lambda=0.75,high,32,49.19241067031124,9
+CsPbI3,deformation,lambda=0.75,high,33,53.63019674364972,9
+CsPbI3,deformation,lambda=0.75,high,34,58.630167042402924,9
+CsPbI3,deformation,lambda=0.75,high,35,60.98815434840662,9
+CsPbI3,deformation,lambda=0.75,high,36,64.93785114989753,9
+CsPbI3,deformation,lambda=0.75,high,37,66.42035589266473,9
+CsPbI3,deformation,lambda=0.75,high,38,68.17543211643549,9
+CsPbI3,deformation,lambda=0.75,high,39,68.3091630532164,9
+CsPbI3,deformation,lambda=0.75,high,40,66.78056012247713,9
+CsPbI3,deformation,lambda=0.75,high,41,65.07675593505728,9
+CsPbI3,deformation,lambda=0.75,high,42,60.048184389330366,9
+CsPbI3,deformation,lambda=0.75,high,43,57.152221617229046,9
+CsPbI3,deformation,lambda=0.75,high,44,52.35859698375809,9
+CsPbI3,deformation,lambda=0.75,high,45,51.51096231795854,9
+CsPbI3,deformation,lambda=0.75,high,46,55.82836149509019,9
+CsPbI3,deformation,lambda=0.75,high,47,69.90109875741005,9
+CsPbI3,deformation,lambda=0.75,high,48,80.51679269632615,9
+CsPbI3,deformation,lambda=0.75,high,49,93.27385665726233,9
+CsPbI3,deformation,lambda=0.75,high,50,124.61142593500702,9
+CsPbI3,deformation,lambda=0.75,high,51,162.39662531408075,9
+CsPbI3,deformation,lambda=0.75,high,52,183.29546227745098,9
+CsPbI3,deformation,lambda=0.75,high,53,205.33114990074895,9
+CsPbI3,deformation,lambda=0.75,high,54,251.20954376570432,9
+CsPbI3,deformation,lambda=0.75,high,55,295.9651395267719,9
+CsPbI3,deformation,lambda=0.75,high,56,316.4658757734133,9
+CsPbI3,deformation,lambda=0.75,high,57,334.4010505286651,9
+CsPbI3,deformation,lambda=0.75,high,58,361.000811285222,9
+CsPbI3,deformation,lambda=0.75,high,59,370.3660450568589,9
+CsPbI3,deformation,lambda=0.75,high,60,367.24504229852795,9
+CsPbI3,deformation,lambda=0.75,high,61,358.8144007456307,9
+CsPbI3,deformation,lambda=0.75,high,62,304.17602249146375,9
+CsPbI3,deformation,lambda=0.75,high,63,278.7311015473305,9
+CsPbI3,deformation,lambda=0.75,high,64,251.12267507707082,9
+CsPbI3,deformation,lambda=0.75,high,65,222.8917054127055,9
+CsPbI3,deformation,lambda=0.75,high,66,145.8294684327726,9
+CsPbI3,deformation,lambda=0.75,high,67,124.98989246982603,9
+CsPbI3,deformation,lambda=0.75,high,68,106.96981001497598,9
+CsPbI3,deformation,lambda=0.75,high,69,91.78440911627685,9
+CsPbI3,deformation,lambda=0.75,high,70,59.98644440206573,9
+CsPbI3,deformation,lambda=0.75,high,71,52.81758384545158,9
+CsPbI3,deformation,lambda=0.75,high,72,46.822826897651524,9
+CsPbI3,deformation,lambda=0.75,high,73,41.77609883064985,9
+CsPbI3,deformation,lambda=0.75,high,74,30.58351090086228,9
+CsPbI3,deformation,lambda=0.75,high,75,27.839990121629548,9
+CsPbI3,deformation,lambda=0.75,high,76,25.473234054428236,9
+CsPbI3,deformation,lambda=0.75,high,77,23.438654875467556,9
+CsPbI3,deformation,lambda=0.75,high,78,18.390247129511785,9
+CsPbI3,deformation,lambda=0.75,high,79,16.896178067589766,9
+CsPbI3,deformation,lambda=1.00,high,0,234.2261009197107,9
+CsPbI3,deformation,lambda=1.00,high,1,272.28879884784544,9
+CsPbI3,deformation,lambda=1.00,high,2,408.0353510755727,9
+CsPbI3,deformation,lambda=1.00,high,3,463.1395623998469,9
+CsPbI3,deformation,lambda=1.00,high,4,525.96993273351,9
+CsPbI3,deformation,lambda=1.00,high,5,597.6985018225805,9
+CsPbI3,deformation,lambda=1.00,high,6,869.4178206641203,9
+CsPbI3,deformation,lambda=1.00,high,7,981.5368968505035,9
+CsPbI3,deformation,lambda=1.00,high,8,1102.5787292944083,9
+CsPbI3,deformation,lambda=1.00,high,9,1232.434219268158,9
+CsPbI3,deformation,lambda=1.00,high,10,1649.5331583524912,9
+CsPbI3,deformation,lambda=1.00,high,11,1779.277244606918,9
+CsPbI3,deformation,lambda=1.00,high,12,1892.066193014005,9
+CsPbI3,deformation,lambda=1.00,high,13,1978.8530890536024,9
+CsPbI3,deformation,lambda=1.00,high,14,1988.746365765079,9
+CsPbI3,deformation,lambda=1.00,high,15,1889.5054422009887,9
+CsPbI3,deformation,lambda=1.00,high,16,1741.4524095122072,9
+CsPbI3,deformation,lambda=1.00,high,17,1550.9305489399956,9
+CsPbI3,deformation,lambda=1.00,high,18,888.4100220390758,9
+CsPbI3,deformation,lambda=1.00,high,19,691.6327480274566,9
+CsPbI3,deformation,lambda=1.00,high,20,527.2865667298149,9
+CsPbI3,deformation,lambda=1.00,high,21,312.9542659599237,9
+CsPbI3,deformation,lambda=1.00,high,22,268.73336586627295,9
+CsPbI3,deformation,lambda=1.00,high,23,310.28942571925097,9
+CsPbI3,deformation,lambda=1.00,high,24,387.73557117739864,9
+CsPbI3,deformation,lambda=1.00,high,25,641.6076770184751,9
+CsPbI3,deformation,lambda=1.00,high,26,1021.1924987866954,9
+CsPbI3,deformation,lambda=1.00,high,27,1247.7186862533392,9
+CsPbI3,deformation,lambda=1.00,high,28,1485.9978778807724,9
+CsPbI3,deformation,lambda=1.00,high,29,1949.69419579778,9
+CsPbI3,deformation,lambda=1.00,high,30,2308.3974682214916,9
+CsPbI3,deformation,lambda=1.00,high,31,2423.2291828088655,9
+CsPbI3,deformation,lambda=1.00,high,32,2485.9297356400803,9
+CsPbI3,deformation,lambda=1.00,high,33,2466.9244669743184,9
+CsPbI3,deformation,lambda=1.00,high,34,2291.42315315866,9
+CsPbI3,deformation,lambda=1.00,high,35,2168.043586091994,9
+CsPbI3,deformation,lambda=1.00,high,36,1899.1392944454553,9
+CsPbI3,deformation,lambda=1.00,high,37,1769.2238435033141,9
+CsPbI3,deformation,lambda=1.00,high,38,1541.231834095407,9
+CsPbI3,deformation,lambda=1.00,high,39,1447.129117948015,9
+CsPbI3,deformation,lambda=1.00,high,40,1306.7208107347446,9
+CsPbI3,deformation,lambda=1.00,high,41,1262.8037308634298,9
+CsPbI3,deformation,lambda=1.00,high,42,1248.990553558187,9
+CsPbI3,deformation,lambda=1.00,high,43,1294.1029786953006,9
+CsPbI3,deformation,lambda=1.00,high,44,1531.8901563466823,9
+CsPbI3,deformation,lambda=1.00,high,45,1724.0535830322904,9
+CsPbI3,deformation,lambda=1.00,high,46,2166.1293016272743,9
+CsPbI3,deformation,lambda=1.00,high,47,2490.577811521477,9
+CsPbI3,deformation,lambda=1.00,high,48,2554.401688293147,9
+CsPbI3,deformation,lambda=1.00,high,49,2548.854361690283,9
+CsPbI3,deformation,lambda=1.00,high,50,2388.321600732551,9
+CsPbI3,deformation,lambda=1.00,high,51,2174.386202841745,9
+CsPbI3,deformation,lambda=1.00,high,52,2087.5991842198655,9
+CsPbI3,deformation,lambda=1.00,high,53,2023.7995354855657,9
+CsPbI3,deformation,lambda=1.00,high,54,1962.4740321178951,9
+CsPbI3,deformation,lambda=1.00,high,55,1979.7636481813174,9
+CsPbI3,deformation,lambda=1.00,high,56,2014.0709219016917,9
+CsPbI3,deformation,lambda=1.00,high,57,2062.792378138735,9
+CsPbI3,deformation,lambda=1.00,high,58,2197.668066121887,9
+CsPbI3,deformation,lambda=1.00,high,59,2366.32619672295,9
+CsPbI3,deformation,lambda=1.00,high,60,2455.7676622195218,9
+CsPbI3,deformation,lambda=1.00,high,61,2541.5080540083172,9
+CsPbI3,deformation,lambda=1.00,high,62,2731.995459418408,9
+CsPbI3,deformation,lambda=1.00,high,63,2757.1856133595484,9
+CsPbI3,deformation,lambda=1.00,high,64,2756.6114404988875,9
+CsPbI3,deformation,lambda=1.00,high,65,2730.373708481294,9
+CsPbI3,deformation,lambda=1.00,high,66,2499.544829690825,9
+CsPbI3,deformation,lambda=1.00,high,67,2382.2812238235892,9
+CsPbI3,deformation,lambda=1.00,high,68,2255.315141350619,9
+CsPbI3,deformation,lambda=1.00,high,69,2120.6232970153656,9
+CsPbI3,deformation,lambda=1.00,high,70,1726.941734407773,9
+CsPbI3,deformation,lambda=1.00,high,71,1610.4667841186126,9
+CsPbI3,deformation,lambda=1.00,high,72,1505.3231722035182,9
+CsPbI3,deformation,lambda=1.00,high,73,1410.9061806500783,9
+CsPbI3,deformation,lambda=1.00,high,74,1199.2950989379256,9
+CsPbI3,deformation,lambda=1.00,high,75,1147.6099356916573,9
+CsPbI3,deformation,lambda=1.00,high,76,1102.5982320014443,9
+CsPbI3,deformation,lambda=1.00,high,77,1062.9593860568207,9
+CsPbI3,deformation,lambda=1.00,high,78,969.3595228249648,9
+CsPbI3,deformation,lambda=1.00,high,79,948.4179473806721,9
+CsPbI3,temperature,300 K,low,0,4.50526182821902,8
+CsPbI3,temperature,300 K,low,1,4.294843504098754,8
+CsPbI3,temperature,300 K,low,2,3.9763719375952347,8
+CsPbI3,temperature,300 K,low,3,3.517607030018279,8
+CsPbI3,temperature,300 K,low,4,3.407706907842495,8
+CsPbI3,temperature,300 K,low,5,3.361695577328102,8
+CsPbI3,temperature,300 K,low,6,3.365001691605845,8
+CsPbI3,temperature,300 K,low,7,3.392482713055395,8
+CsPbI3,temperature,300 K,low,8,3.3826542369133783,8
+CsPbI3,temperature,300 K,low,9,3.3004347199117463,8
+CsPbI3,temperature,300 K,low,10,3.16021797559339,8
+CsPbI3,temperature,300 K,low,11,2.9692260680899074,8
+CsPbI3,temperature,300 K,low,12,2.4959489701609177,8
+CsPbI3,temperature,300 K,low,13,2.3169963634621142,8
+CsPbI3,temperature,300 K,low,14,2.2676892565192666,8
+CsPbI3,temperature,300 K,low,15,2.3648040942995974,8
+CsPbI3,temperature,300 K,low,16,2.5669080594459235,8
+CsPbI3,temperature,300 K,low,17,3.0746589323147306,8
+CsPbI3,temperature,300 K,low,18,3.301028430066376,8
+CsPbI3,temperature,300 K,low,19,3.470234743333579,8
+CsPbI3,temperature,300 K,low,20,3.5488962301837303,8
+CsPbI3,temperature,300 K,low,21,3.5149257511633034,8
+CsPbI3,temperature,300 K,low,22,3.1382112115492276,8
+CsPbI3,temperature,300 K,low,23,2.894291132240727,8
+CsPbI3,temperature,300 K,low,24,2.6732370971139394,8
+CsPbI3,temperature,300 K,low,25,2.488340325009157,8
+CsPbI3,temperature,300 K,low,26,2.1820701714584767,8
+CsPbI3,temperature,300 K,low,27,2.0431960407642396,8
+CsPbI3,temperature,300 K,low,28,1.9149833496117068,8
+CsPbI3,temperature,300 K,low,29,1.7987397705050865,8
+CsPbI3,temperature,300 K,low,30,1.6923674256151944,8
+CsPbI3,temperature,300 K,low,31,1.5008910729280591,8
+CsPbI3,temperature,300 K,low,32,1.4196618662701372,8
+CsPbI3,temperature,300 K,low,33,1.352953850315539,8
+CsPbI3,temperature,300 K,low,34,1.3124520395882535,8
+CsPbI3,temperature,300 K,low,35,1.3210587742601603,8
+CsPbI3,temperature,300 K,low,36,1.5640798194452539,8
+CsPbI3,temperature,300 K,low,37,1.8033408759891896,8
+CsPbI3,temperature,300 K,low,38,2.1069136682830476,8
+CsPbI3,temperature,300 K,low,39,2.4403633688747064,8
+CsPbI3,temperature,300 K,low,40,2.7202057774291575,8
+CsPbI3,temperature,300 K,low,41,2.7471913740216953,8
+CsPbI3,temperature,300 K,low,42,2.5425067033744635,8
+CsPbI3,temperature,300 K,low,43,2.3374139955092557,8
+CsPbI3,temperature,300 K,low,44,2.1921711937102053,8
+CsPbI3,temperature,300 K,low,45,2.076432146996937,8
+CsPbI3,temperature,300 K,low,46,2.0895718258923206,8
+CsPbI3,temperature,300 K,low,47,2.1433718963876367,8
+CsPbI3,temperature,300 K,low,48,2.2285096371771913,8
+CsPbI3,temperature,300 K,low,49,2.3278773928356196,8
+CsPbI3,temperature,300 K,low,50,2.467332416632069,8
+CsPbI3,temperature,300 K,low,51,2.464220060244179,8
+CsPbI3,temperature,300 K,low,52,2.395626484482311,8
+CsPbI3,temperature,300 K,low,53,2.2623460586264525,8
+CsPbI3,temperature,300 K,low,54,2.0833368395284984,8
+CsPbI3,temperature,300 K,low,55,1.776729633482203,8
+CsPbI3,temperature,300 K,low,56,1.7812891941566602,8
+CsPbI3,temperature,300 K,low,57,1.9458584885799046,8
+CsPbI3,temperature,300 K,low,58,2.2326411770964856,8
+CsPbI3,temperature,300 K,low,59,2.878131030944521,8
+CsPbI3,temperature,300 K,low,60,3.1177013033748255,8
+CsPbI3,temperature,300 K,low,61,3.2563823552855653,8
+CsPbI3,temperature,300 K,low,62,3.284897428066227,8
+CsPbI3,temperature,300 K,low,63,3.2137497169409266,8
+CsPbI3,temperature,300 K,low,64,2.886200898936066,8
+CsPbI3,temperature,300 K,low,65,2.7008375832723504,8
+CsPbI3,temperature,300 K,low,66,2.527190483617831,8
+CsPbI3,temperature,300 K,low,67,2.3638547753865016,8
+CsPbI3,temperature,300 K,low,68,2.2042805095433375,8
+CsPbI3,temperature,300 K,low,69,1.9318847062319764,8
+CsPbI3,temperature,300 K,low,70,1.855157052525871,8
+CsPbI3,temperature,300 K,low,71,1.8317437122463849,8
+CsPbI3,temperature,300 K,low,72,1.8725986904992769,8
+CsPbI3,temperature,300 K,low,73,1.9698151784426188,8
+CsPbI3,temperature,300 K,low,74,2.181520983863459,8
+CsPbI3,temperature,300 K,low,75,2.233601474126729,8
+CsPbI3,temperature,300 K,low,76,2.2273087875022934,8
+CsPbI3,temperature,300 K,low,77,2.1749489181724493,8
+CsPbI3,temperature,300 K,low,78,2.1132517853512134,8
+CsPbI3,temperature,300 K,low,79,2.19954863375863,8
+CsPbI3,temperature,450 K,low,0,5.06869657885079,8
+CsPbI3,temperature,450 K,low,1,4.79083663624285,8
+CsPbI3,temperature,450 K,low,2,4.449155597007723,8
+CsPbI3,temperature,450 K,low,3,3.5887973954835926,8
+CsPbI3,temperature,450 K,low,4,3.253220432656233,8
+CsPbI3,temperature,450 K,low,5,3.0512984352377033,8
+CsPbI3,temperature,450 K,low,6,2.9510627432638614,8
+CsPbI3,temperature,450 K,low,7,2.893783790589396,8
+CsPbI3,temperature,450 K,low,8,2.748908290406797,8
+CsPbI3,temperature,450 K,low,9,2.6397954420005245,8
+CsPbI3,temperature,450 K,low,10,2.524020820213613,8
+CsPbI3,temperature,450 K,low,11,2.445208514312888,8
+CsPbI3,temperature,450 K,low,12,2.462505735803349,8
+CsPbI3,temperature,450 K,low,13,2.484541642716174,8
+CsPbI3,temperature,450 K,low,14,2.540398306494812,8
+CsPbI3,temperature,450 K,low,15,2.724266437458802,8
+CsPbI3,temperature,450 K,low,16,3.078551535151678,8
+CsPbI3,temperature,450 K,low,17,3.579788828912119,8
+CsPbI3,temperature,450 K,low,18,3.382177603345371,8
+CsPbI3,temperature,450 K,low,19,3.090733660306351,8
+CsPbI3,temperature,450 K,low,20,2.896167744055996,8
+CsPbI3,temperature,450 K,low,21,2.7514430312811666,8
+CsPbI3,temperature,450 K,low,22,2.197142075754171,8
+CsPbI3,temperature,450 K,low,23,1.8491529794013466,8
+CsPbI3,temperature,450 K,low,24,1.605679864033166,8
+CsPbI3,temperature,450 K,low,25,1.5449815362759418,8
+CsPbI3,temperature,450 K,low,26,1.8658369520829106,8
+CsPbI3,temperature,450 K,low,27,2.1056300680651785,8
+CsPbI3,temperature,450 K,low,28,2.334352641086044,8
+CsPbI3,temperature,450 K,low,29,2.5384212214392514,8
+CsPbI3,temperature,450 K,low,30,2.715030575770699,8
+CsPbI3,temperature,450 K,low,31,2.983341050433526,8
+CsPbI3,temperature,450 K,low,32,3.071135524963201,8
+CsPbI3,temperature,450 K,low,33,3.115358959283989,8
+CsPbI3,temperature,450 K,low,34,3.1097485319556726,8
+CsPbI3,temperature,450 K,low,35,3.0563486757842466,8
+CsPbI3,temperature,450 K,low,36,2.83399133764978,8
+CsPbI3,temperature,450 K,low,37,2.6975057241187193,8
+CsPbI3,temperature,450 K,low,38,2.5892603447498703,8
+CsPbI3,temperature,450 K,low,39,2.539492663560498,8
+CsPbI3,temperature,450 K,low,40,2.5430325102380116,8
+CsPbI3,temperature,450 K,low,41,2.5892502701250812,8
+CsPbI3,temperature,450 K,low,42,2.5970401702687975,8
+CsPbI3,temperature,450 K,low,43,2.581851735521,8
+CsPbI3,temperature,450 K,low,44,2.549587603005816,8
+CsPbI3,temperature,450 K,low,45,2.57785645460311,8
+CsPbI3,temperature,450 K,low,46,2.70046650485603,8
+CsPbI3,temperature,450 K,low,47,2.8949949927776837,8
+CsPbI3,temperature,450 K,low,48,3.1274711860866296,8
+CsPbI3,temperature,450 K,low,49,3.3616497133683354,8
+CsPbI3,temperature,450 K,low,50,3.7944427501483036,8
+CsPbI3,temperature,450 K,low,51,3.9578250855181403,8
+CsPbI3,temperature,450 K,low,52,4.0327230191839645,8
+CsPbI3,temperature,450 K,low,53,4.002173724352841,8
+CsPbI3,temperature,450 K,low,54,3.8627764475463806,8
+CsPbI3,temperature,450 K,low,55,3.2923558573923137,8
+CsPbI3,temperature,450 K,low,56,2.9023135623043577,8
+CsPbI3,temperature,450 K,low,57,2.5196762969844513,8
+CsPbI3,temperature,450 K,low,58,2.2210561721762807,8
+CsPbI3,temperature,450 K,low,59,2.1213541262885163,8
+CsPbI3,temperature,450 K,low,60,2.3440403943287644,8
+CsPbI3,temperature,450 K,low,61,2.6536535710210565,8
+CsPbI3,temperature,450 K,low,62,2.9436674506285225,8
+CsPbI3,temperature,450 K,low,63,3.1503371430375497,8
+CsPbI3,temperature,450 K,low,64,3.3247252084774477,8
+CsPbI3,temperature,450 K,low,65,3.3177865041081778,8
+CsPbI3,temperature,450 K,low,66,3.252230762759421,8
+CsPbI3,temperature,450 K,low,67,3.1290423071057023,8
+CsPbI3,temperature,450 K,low,68,2.990667652617822,8
+CsPbI3,temperature,450 K,low,69,3.2200332322529643,8
+CsPbI3,temperature,450 K,low,70,3.5638438549680544,8
+CsPbI3,temperature,450 K,low,71,3.7400400869437838,8
+CsPbI3,temperature,450 K,low,72,3.644789771717299,8
+CsPbI3,temperature,450 K,low,73,3.4243436874182973,8
+CsPbI3,temperature,450 K,low,74,3.388777413538282,8
+CsPbI3,temperature,450 K,low,75,3.401093008529373,8
+CsPbI3,temperature,450 K,low,76,3.16045851141329,8
+CsPbI3,temperature,450 K,low,77,2.7445820306774027,8
+CsPbI3,temperature,450 K,low,78,2.177590954040435,8
+CsPbI3,temperature,450 K,low,79,2.063829966242343,8
+CsPbI3,temperature,600 K,high,0,7.247285947753719,8
+CsPbI3,temperature,600 K,high,1,11.369999605409221,8
+CsPbI3,temperature,600 K,high,2,11.860953802079754,8
+CsPbI3,temperature,600 K,high,3,8.528887449657136,8
+CsPbI3,temperature,600 K,high,4,7.921623118880301,8
+CsPbI3,temperature,600 K,high,5,8.753530960170865,8
+CsPbI3,temperature,600 K,high,6,12.41481476883838,8
+CsPbI3,temperature,600 K,high,7,13.56855967885978,8
+CsPbI3,temperature,600 K,high,8,14.667343126288497,8
+CsPbI3,temperature,600 K,high,9,15.850947050533737,8
+CsPbI3,temperature,600 K,high,10,20.78747023237688,8
+CsPbI3,temperature,600 K,high,11,21.444128232467538,8
+CsPbI3,temperature,600 K,high,12,20.452979633726656,8
+CsPbI3,temperature,600 K,high,13,18.260012880413072,8
+CsPbI3,temperature,600 K,high,14,13.713392532430866,8
+CsPbI3,temperature,600 K,high,15,13.002131173307248,8
+CsPbI3,temperature,600 K,high,16,12.383717605194892,8
+CsPbI3,temperature,600 K,high,17,11.714456417866447,8
+CsPbI3,temperature,600 K,high,18,9.757361520167704,8
+CsPbI3,temperature,600 K,high,19,9.505691266775852,8
+CsPbI3,temperature,600 K,high,20,9.63884768907181,8
+CsPbI3,temperature,600 K,high,21,10.648181074148752,8
+CsPbI3,temperature,600 K,high,22,11.094929023659272,8
+CsPbI3,temperature,600 K,high,23,11.026246281573124,8
+CsPbI3,temperature,600 K,high,24,10.647764143840611,8
+CsPbI3,temperature,600 K,high,25,9.697052009015074,8
+CsPbI3,temperature,600 K,high,26,8.33364305761934,8
+CsPbI3,temperature,600 K,high,27,6.819423057476677,8
+CsPbI3,temperature,600 K,high,28,5.429791125313566,8
+CsPbI3,temperature,600 K,high,29,5.110805827251465,8
+CsPbI3,temperature,600 K,high,30,7.719241468064122,8
+CsPbI3,temperature,600 K,high,31,8.718653086097007,8
+CsPbI3,temperature,600 K,high,32,8.673026515249152,8
+CsPbI3,temperature,600 K,high,33,5.974732022706538,8
+CsPbI3,temperature,600 K,high,34,3.861293567248992,8
+CsPbI3,temperature,600 K,high,35,3.7155913854767837,8
+CsPbI3,temperature,600 K,high,36,6.552221073830891,8
+CsPbI3,temperature,600 K,high,37,8.084967779677811,8
+CsPbI3,temperature,600 K,high,38,6.007337708096798,8
+CsPbI3,temperature,600 K,high,39,4.359546870039378,8
+CsPbI3,temperature,600 K,high,40,5.022147178465668,8
+CsPbI3,temperature,600 K,high,41,5.679233365877148,8
+CsPbI3,temperature,600 K,high,42,4.439031554691675,8
+CsPbI3,temperature,600 K,high,43,3.53163297605346,8
+CsPbI3,temperature,600 K,high,44,2.8336639399642816,8
+CsPbI3,temperature,600 K,high,45,2.8213017957434587,8
+CsPbI3,temperature,600 K,high,46,3.070313799109241,8
+CsPbI3,temperature,600 K,high,47,3.450474121422174,8
+CsPbI3,temperature,600 K,high,48,3.979995424420213,8
+CsPbI3,temperature,600 K,high,49,4.35164786505104,8
+CsPbI3,temperature,600 K,high,50,3.767945224843576,8
+CsPbI3,temperature,600 K,high,51,3.94913554414822,8
+CsPbI3,temperature,600 K,high,52,4.097018517442594,8
+CsPbI3,temperature,600 K,high,53,4.097787366876104,8
+CsPbI3,temperature,600 K,high,54,3.7207792055893605,8
+CsPbI3,temperature,600 K,high,55,3.9477268626696245,8
+CsPbI3,temperature,600 K,high,56,4.5604736968890265,8
+CsPbI3,temperature,600 K,high,57,4.73913768869076,8
+CsPbI3,temperature,600 K,high,58,3.847563022412463,8
+CsPbI3,temperature,600 K,high,59,4.734810866369679,8
+CsPbI3,temperature,600 K,high,60,5.263660070477052,8
+CsPbI3,temperature,600 K,high,61,5.9345108246580285,8
+CsPbI3,temperature,600 K,high,62,8.029389105183487,8
+CsPbI3,temperature,600 K,high,63,7.794145012412916,8
+CsPbI3,temperature,600 K,high,64,7.150006500648533,8
+CsPbI3,temperature,600 K,high,65,6.5060904407307625,8
+CsPbI3,temperature,600 K,high,66,7.093696714584835,8
+CsPbI3,temperature,600 K,high,67,7.743437583599678,8
+CsPbI3,temperature,600 K,high,68,7.750054833788519,8
+CsPbI3,temperature,600 K,high,69,7.084693908611481,8
+CsPbI3,temperature,600 K,high,70,5.47825871812152,8
+CsPbI3,temperature,600 K,high,71,5.406567399428756,8
+CsPbI3,temperature,600 K,high,72,5.400297483768017,8
+CsPbI3,temperature,600 K,high,73,5.5492278902886625,8
+CsPbI3,temperature,600 K,high,74,7.611638514477752,8
+CsPbI3,temperature,600 K,high,75,7.940663630556888,8
+CsPbI3,temperature,600 K,high,76,7.820827328729781,8
+CsPbI3,temperature,600 K,high,77,7.349888024670401,8
+CsPbI3,temperature,600 K,high,78,5.705988756823176,8
+CsPbI3,temperature,600 K,high,79,5.486013045445281,8
+CsPbI3,temperature,900 K,high,0,45.623018879973515,8
+CsPbI3,temperature,900 K,high,1,51.75884744153744,8
+CsPbI3,temperature,900 K,high,2,17.50573699570316,8
+CsPbI3,temperature,900 K,high,3,15.924896254223425,8
+CsPbI3,temperature,900 K,high,4,25.02563669298621,8
+CsPbI3,temperature,900 K,high,5,38.77841230811456,8
+CsPbI3,temperature,900 K,high,6,60.162466131598315,8
+CsPbI3,temperature,900 K,high,7,83.82939988720733,8
+CsPbI3,temperature,900 K,high,8,98.42603514895431,8
+CsPbI3,temperature,900 K,high,9,99.18147832728606,8
+CsPbI3,temperature,900 K,high,10,64.04729774199454,8
+CsPbI3,temperature,900 K,high,11,37.24652324962796,8
+CsPbI3,temperature,900 K,high,12,19.535729798056636,8
+CsPbI3,temperature,900 K,high,13,13.152688729664076,8
+CsPbI3,temperature,900 K,high,14,11.567142783876681,8
+CsPbI3,temperature,900 K,high,15,12.729600994759716,8
+CsPbI3,temperature,900 K,high,16,14.523396621241664,8
+CsPbI3,temperature,900 K,high,17,17.146167481363335,8
+CsPbI3,temperature,900 K,high,18,14.052411282588743,8
+CsPbI3,temperature,900 K,high,19,11.511180773778358,8
+CsPbI3,temperature,900 K,high,20,11.396722833054397,8
+CsPbI3,temperature,900 K,high,21,12.986533038436681,8
+CsPbI3,temperature,900 K,high,22,11.972411346624545,8
+CsPbI3,temperature,900 K,high,23,12.166419507264571,8
+CsPbI3,temperature,900 K,high,24,12.487950516898858,8
+CsPbI3,temperature,900 K,high,25,11.556402928139201,8
+CsPbI3,temperature,900 K,high,26,9.393861278248039,8
+CsPbI3,temperature,900 K,high,27,9.018517777337502,8
+CsPbI3,temperature,900 K,high,28,8.948498579495194,8
+CsPbI3,temperature,900 K,high,29,9.050835810407358,8
+CsPbI3,temperature,900 K,high,30,8.619736413351852,8
+CsPbI3,temperature,900 K,high,31,8.138946033786056,8
+CsPbI3,temperature,900 K,high,32,7.962446119611878,8
+CsPbI3,temperature,900 K,high,33,9.15825357539499,8
+CsPbI3,temperature,900 K,high,34,10.61241910213738,8
+CsPbI3,temperature,900 K,high,35,10.513325384589479,8
+CsPbI3,temperature,900 K,high,36,10.11047883486724,8
+CsPbI3,temperature,900 K,high,37,11.698863484365381,8
+CsPbI3,temperature,900 K,high,38,11.584375942140408,8
+CsPbI3,temperature,900 K,high,39,10.082039541376837,8
+CsPbI3,temperature,900 K,high,40,10.173709022005301,8
+CsPbI3,temperature,900 K,high,41,11.711410424700233,8
+CsPbI3,temperature,900 K,high,42,15.994316881992155,8
+CsPbI3,temperature,900 K,high,43,16.244572293504685,8
+CsPbI3,temperature,900 K,high,44,10.29122574568721,8
+CsPbI3,temperature,900 K,high,45,8.826383764810029,8
+CsPbI3,temperature,900 K,high,46,21.206542213926888,8
+CsPbI3,temperature,900 K,high,47,59.38105924601128,8
+CsPbI3,temperature,900 K,high,48,73.73528247513117,8
+CsPbI3,temperature,900 K,high,49,74.79247911936889,8
+CsPbI3,temperature,900 K,high,50,57.44649801306573,8
+CsPbI3,temperature,900 K,high,51,31.765487142220206,8
+CsPbI3,temperature,900 K,high,52,21.607565424788532,8
+CsPbI3,temperature,900 K,high,53,16.491255477752727,8
+CsPbI3,temperature,900 K,high,54,11.75037364472814,8
+CsPbI3,temperature,900 K,high,55,10.446785092754766,8
+CsPbI3,temperature,900 K,high,56,11.376086464193953,8
+CsPbI3,temperature,900 K,high,57,12.330171390366045,8
+CsPbI3,temperature,900 K,high,58,12.435260407629427,8
+CsPbI3,temperature,900 K,high,59,23.118756530212618,8
+CsPbI3,temperature,900 K,high,60,39.1490280849787,8
+CsPbI3,temperature,900 K,high,61,64.4487706180231,8
+CsPbI3,temperature,900 K,high,62,183.24243912453426,8
+CsPbI3,temperature,900 K,high,63,217.67478339192215,8
+CsPbI3,temperature,900 K,high,64,236.372761486488,8
+CsPbI3,temperature,900 K,high,65,234.37999698043052,8
+CsPbI3,temperature,900 K,high,66,133.02913077222627,8
+CsPbI3,temperature,900 K,high,67,92.074026624085,8
+CsPbI3,temperature,900 K,high,68,58.923589724127766,8
+CsPbI3,temperature,900 K,high,69,35.48603054493926,8
+CsPbI3,temperature,900 K,high,70,12.930344823441175,8
+CsPbI3,temperature,900 K,high,71,15.4836402703101,8
+CsPbI3,temperature,900 K,high,72,25.071337225166694,8
+CsPbI3,temperature,900 K,high,73,46.81426531174302,8
+CsPbI3,temperature,900 K,high,74,127.47751104142111,8
+CsPbI3,temperature,900 K,high,75,111.7130829217639,8
+CsPbI3,temperature,900 K,high,76,78.15589441371668,8
+CsPbI3,temperature,900 K,high,77,46.88772814681952,8
+CsPbI3,temperature,900 K,high,78,17.906527018039604,8
+CsPbI3,temperature,900 K,high,79,17.68414468338521,8
+CsPbI3,temperature,1200 K,high,0,48.4896898507941,8
+CsPbI3,temperature,1200 K,high,1,86.7574540979495,8
+CsPbI3,temperature,1200 K,high,2,457.49621423736124,8
+CsPbI3,temperature,1200 K,high,3,750.0819288765138,8
+CsPbI3,temperature,1200 K,high,4,1149.575042073492,8
+CsPbI3,temperature,1200 K,high,5,1655.6837560369934,8
+CsPbI3,temperature,1200 K,high,6,3398.1271510963734,8
+CsPbI3,temperature,1200 K,high,7,3795.636419176026,8
+CsPbI3,temperature,1200 K,high,8,3971.564804563207,8
+CsPbI3,temperature,1200 K,high,9,3889.4802081368707,8
+CsPbI3,temperature,1200 K,high,10,2486.1074056804837,8
+CsPbI3,temperature,1200 K,high,11,1958.9599177543112,8
+CsPbI3,temperature,1200 K,high,12,1553.8681010238554,8
+CsPbI3,temperature,1200 K,high,13,1135.733795002402,8
+CsPbI3,temperature,1200 K,high,14,558.9749407362881,8
+CsPbI3,temperature,1200 K,high,15,605.4962192147204,8
+CsPbI3,temperature,1200 K,high,16,508.97542271057057,8
+CsPbI3,temperature,1200 K,high,17,329.3856934341621,8
+CsPbI3,temperature,1200 K,high,18,57.39216824906589,8
+CsPbI3,temperature,1200 K,high,19,80.04723175244854,8
+CsPbI3,temperature,1200 K,high,20,104.96678486659964,8
+CsPbI3,temperature,1200 K,high,21,49.816007093783185,8
+CsPbI3,temperature,1200 K,high,22,23.941299201336022,8
+CsPbI3,temperature,1200 K,high,23,25.200366146362928,8
+CsPbI3,temperature,1200 K,high,24,27.272687569870314,8
+CsPbI3,temperature,1200 K,high,25,34.10323639262676,8
+CsPbI3,temperature,1200 K,high,26,32.72679925306347,8
+CsPbI3,temperature,1200 K,high,27,37.23174875180959,8
+CsPbI3,temperature,1200 K,high,28,49.73961130802379,8
+CsPbI3,temperature,1200 K,high,29,48.39433092814474,8
+CsPbI3,temperature,1200 K,high,30,33.471255139129575,8
+CsPbI3,temperature,1200 K,high,31,50.49408619380168,8
+CsPbI3,temperature,1200 K,high,32,84.73161245233234,8
+CsPbI3,temperature,1200 K,high,33,136.69040105675435,8
+CsPbI3,temperature,1200 K,high,34,106.54300276755983,8
+CsPbI3,temperature,1200 K,high,35,73.6242063029805,8
+CsPbI3,temperature,1200 K,high,36,42.878955498990635,8
+CsPbI3,temperature,1200 K,high,37,41.97479475394442,8
+CsPbI3,temperature,1200 K,high,38,47.82289786992433,8
+CsPbI3,temperature,1200 K,high,39,48.87853064708427,8
+CsPbI3,temperature,1200 K,high,40,63.90297050041866,8
+CsPbI3,temperature,1200 K,high,41,83.88851851476068,8
+CsPbI3,temperature,1200 K,high,42,131.38771450116022,8
+CsPbI3,temperature,1200 K,high,43,167.31686362743685,8
+CsPbI3,temperature,1200 K,high,44,532.8832921848647,8
+CsPbI3,temperature,1200 K,high,45,764.184807293811,8
+CsPbI3,temperature,1200 K,high,46,526.5330988433761,8
+CsPbI3,temperature,1200 K,high,47,348.45635079506394,8
+CsPbI3,temperature,1200 K,high,48,378.49669559159986,8
+CsPbI3,temperature,1200 K,high,49,415.4276776887125,8
+CsPbI3,temperature,1200 K,high,50,487.57749608590336,8
+CsPbI3,temperature,1200 K,high,51,554.1480572310542,8
+CsPbI3,temperature,1200 K,high,52,590.4880157142385,8
+CsPbI3,temperature,1200 K,high,53,631.7698290378407,8
+CsPbI3,temperature,1200 K,high,54,737.5232061089625,8
+CsPbI3,temperature,1200 K,high,55,907.8603832192306,8
+CsPbI3,temperature,1200 K,high,56,1037.6854625837418,8
+CsPbI3,temperature,1200 K,high,57,1210.3224720110504,8
+CsPbI3,temperature,1200 K,high,58,1707.8251341011187,8
+CsPbI3,temperature,1200 K,high,59,2378.3629710348405,8
+CsPbI3,temperature,1200 K,high,60,2696.894353830601,8
+CsPbI3,temperature,1200 K,high,61,2904.3851881404216,8
+CsPbI3,temperature,1200 K,high,62,2294.833762255454,8
+CsPbI3,temperature,1200 K,high,63,1804.1328591938795,8
+CsPbI3,temperature,1200 K,high,64,1338.8933707691124,8
+CsPbI3,temperature,1200 K,high,65,961.292623310566,8
+CsPbI3,temperature,1200 K,high,66,353.09352249207404,8
+CsPbI3,temperature,1200 K,high,67,265.0119499927864,8
+CsPbI3,temperature,1200 K,high,68,206.285268692672,8
+CsPbI3,temperature,1200 K,high,69,166.8745841212584,8
+CsPbI3,temperature,1200 K,high,70,343.19123975794764,8
+CsPbI3,temperature,1200 K,high,71,762.8203829294423,8
+CsPbI3,temperature,1200 K,high,72,1176.8541034879356,8
+CsPbI3,temperature,1200 K,high,73,1218.7622048112823,8
+CsPbI3,temperature,1200 K,high,74,135.01560791691338,8
+CsPbI3,temperature,1200 K,high,75,118.30905717406853,8
+CsPbI3,temperature,1200 K,high,76,161.29678163834333,8
+CsPbI3,temperature,1200 K,high,77,229.22482035254595,8
+CsPbI3,temperature,1200 K,high,78,711.1063345856688,8
+CsPbI3,temperature,1200 K,high,79,1021.5797672972002,8

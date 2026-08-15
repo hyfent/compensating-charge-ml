@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the associated article and software release."
+title: "Compensating-Charge-Informed Machine Learning: Data and Code"
+type: software
+version: 1.0.0
+date-released: 2026-08-15
+authors:
+  - given-names: "Zi-Hao"
+    family-names: "Xu"
+  - given-names: "Chuan-Xin"
+    family-names: "Cui"
+  - given-names: "Harold S."
+    family-names: "Park"
+  - given-names: "Tienchong"
+    family-names: "Chang"
+  - given-names: "Jin-Wu"
+    family-names: "Jiang"
+    email: "jiangjinwu@shu.edu.cn"
+abstract: >-
+  Processed numerical data, model configuration, compact method reference,
+  and analysis scripts supporting a compensating-charge-informed
+  machine-learning model for atomic charge prediction in ionic materials.
+keywords:
+  - atomic charge prediction
+  - compensating charge
+  - machine learning
+  - ionic materials
+  - charge equilibration
+
